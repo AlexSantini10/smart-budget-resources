@@ -1,11 +1,11 @@
 {
     "nome_progetto": "smart-budget-resources",
-    "versione": "0.0.2.0",
+    "versione": "0.0.3.0",
     "autore": "alexsantini",
     "data_rilascio": "2024-04-24",
-    "descrizione": "Casi d'uso più specifici",
+    "descrizione": "Aggiunto caso d'uso per ente esterno",
     "sotto_versioni": {
-        "casi_d_uso": "0.9",
+        "casi_d_uso": "0.10",
         "misuse_cases": "0.4",
         "modello_del_dominio": "0.2"
     }
