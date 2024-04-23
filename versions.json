@@ -1,8 +1,13 @@
 {
     "nome_progetto": "smart-budget-resources",
-    "versione": "0.0.1.0",
+    "versione": "0.0.2.0",
     "autore": "alexsantini",
     "data_rilascio": "2024-04-24",
-    "descrizione": "Prima scrittura dei casi d'uso, mancano le connessioni ad utente (attore)"
+    "descrizione": "Casi d'uso più specifici",
+    "sotto_versioni": {
+        "casi_d_uso": "0.9",
+        "misuse_cases": "0.4",
+        "modello_del_dominio": "0.2"
+    }
   }
   
