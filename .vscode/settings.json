@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "diagramma dei casi d'uso"
+        "diagramma dei casi d'uso",
+        "diagramma delle classi"
     ]
 }
