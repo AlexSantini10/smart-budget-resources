@@ -1,28 +1,19 @@
 {
     "nome_progetto": "smart-budget-resources",
-    "versione": "0.5.0",
+    "versione": "0.6.0",
     "autore": "alexsantini",
-    "data_rilascio": "2024-04-24",
-    "descrizione": "Inseriti metodi in overload per le statistiche, esportazione dati modificato tipo in formato",
+    "data_rilascio": "2024-04-29",
+    "descrizione": "Inserimento primo diagramma di interazione per debiti e crediti",
     "sotto_versioni": {
         "analisi_dei_requisiti": {
             "diagramma_dei_casi_d_uso": "0.10",
             "diagramma_dei_misuse_case": "0.4"
         },
         "analisi_del_problema": {
-            "modello_del_dominio": "0.2",
+            "modello_del_dominio": "0.6",
             "diagramma_dei_package": "0.1",
-            "diagramma_delle_classi": {
-                "autenticazione": "0.1",
-                "budget": "0.1",
-                "categorie": "0.1",
-                "conti": "0.1",
-                "debiti_crediti": "0.1",
-                "esportazione_dati": "0.2",
-                "gestione_profilo_utente": "0.1",
-                "statistiche": "0.2",
-                "transazioni": "0.1"
-            }
+            "diagramma_delle_classi": "0.6",
+            "diagramma_delle_interazioni": "0.3"
         }
     }
   }
