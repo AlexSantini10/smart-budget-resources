@@ -1,9 +1,9 @@
 {
     "nome_progetto": "smart-budget-resources",
-    "versione": "0.5.0",
+    "versione": "0.6.0",
     "autore": "alexsantini",
     "data_rilascio": "2024-04-29",
-    "descrizione": "Correzione saldo utente in modello del dominio",
+    "descrizione": "Inserimento primo diagramma di interazione per debiti e crediti",
     "sotto_versioni": {
         "analisi_dei_requisiti": {
             "diagramma_dei_casi_d_uso": "0.10",
@@ -12,20 +12,8 @@
         "analisi_del_problema": {
             "modello_del_dominio": "0.6",
             "diagramma_dei_package": "0.1",
-            "diagramma_delle_classi": {
-                "autenticazione": "0.2",
-                "budget": "0.2",
-                "categorie": "0.2",
-                "conti": "0.2",
-                "debiti_crediti": "0.2",
-                "esportazione_dati": "0.3",
-                "gestione_profilo_utente": "0.2",
-                "statistiche": "0.3",
-                "transazioni": "0.2"
-            },
-            "diagramma_delle_interazioni": {
-                "autenticazione": "0.1"
-            }
+            "diagramma_delle_classi": "0.6",
+            "diagramma_delle_interazioni": "0.3"
         }
     }
   }
