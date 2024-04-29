@@ -1,16 +1,16 @@
 {
     "nome_progetto": "smart-budget-resources",
     "versione": "0.5.0",
-    "autore": "erjem",
-    "data_rilascio": "2024-04-27",
-    "descrizione": "Completati diagrammi delle classi e modello del dominio",
+    "autore": "alexsantini",
+    "data_rilascio": "2024-04-29",
+    "descrizione": "Correzione saldo utente in modello del dominio",
     "sotto_versioni": {
         "analisi_dei_requisiti": {
             "diagramma_dei_casi_d_uso": "0.10",
             "diagramma_dei_misuse_case": "0.4"
         },
         "analisi_del_problema": {
-            "modello_del_dominio": "0.3",
+            "modello_del_dominio": "0.6",
             "diagramma_dei_package": "0.1",
             "diagramma_delle_classi": {
                 "autenticazione": "0.2",
@@ -22,6 +22,9 @@
                 "gestione_profilo_utente": "0.2",
                 "statistiche": "0.3",
                 "transazioni": "0.2"
+            },
+            "diagramma_delle_interazioni": {
+                "autenticazione": "0.1"
             }
         }
     }

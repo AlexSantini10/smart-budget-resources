@@ -1,2 +1,2 @@
 # smart-budget-resources
-Questa repository contiene le sole risorse del progetto smart-budget (DB, dile .conf, file .env ecc ecc)
+Questa repository contiene le sole risorse del progetto smart-budget (docs, DB, file .conf, file .env ecc ecc)
