@@ -1,19 +1,19 @@
 {
     "nome_progetto": "smart-budget-resources",
-    "versione": "0.6.0",
+    "versione": "0.7.0",
     "autore": "alexsantini",
     "data_rilascio": "2024-04-29",
-    "descrizione": "Inserimento primo diagramma di interazione per debiti e crediti",
+    "descrizione": "Modifiche dette dal prof",
     "sotto_versioni": {
         "analisi_dei_requisiti": {
             "diagramma_dei_casi_d_uso": "0.10",
             "diagramma_dei_misuse_case": "0.4"
         },
         "analisi_del_problema": {
-            "modello_del_dominio": "0.6",
+            "modello_del_dominio": "0.7",
             "diagramma_dei_package": "0.1",
-            "diagramma_delle_classi": "0.6",
-            "diagramma_delle_interazioni": "0.4"
+            "diagramma_delle_classi": "0.7",
+            "diagramma_delle_interazioni": "0.5"
         }
     }
   }
