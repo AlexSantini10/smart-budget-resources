@@ -3,7 +3,7 @@
     "versione": "0.8.0",
     "autore": "alexsantini",
     "data_rilascio": "2024-04-29",
-    "descrizione": "Aggiornamenti dominio classi e sequenza",
+    "descrizione": "Aggiornamento analisi del problema",
     "sotto_versioni": {
         "analisi_dei_requisiti": {
             "diagramma_dei_casi_d_uso": "0.10",
