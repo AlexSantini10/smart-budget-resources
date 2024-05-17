@@ -3,18 +3,19 @@
     "versione": "0.8.0",
     "autore": "alexsantini",
     "data_rilascio": "2024-04-29",
-    "descrizione": "Aggiornamento analisi del problema",
+    "descrizione": "Creato diagramma ER, modificati modelli del dominio di analisi e progettazione",
     "sotto_versioni": {
         "analisi_dei_requisiti": {
             "diagramma_dei_casi_d_uso": "0.10",
             "diagramma_dei_misuse_case": "0.4"
         },
         "analisi_del_problema": {
-            "modello_del_dominio": "0.8",
+            "modello_del_dominio": "0.9",
             "diagramma_dei_package": "0.1",
             "diagramma_delle_classi": "0.8",
             "diagramma_delle_interazioni": "0.6"
-        }
+        },
+        "progettazione": "0.1"
     }
   }
   
