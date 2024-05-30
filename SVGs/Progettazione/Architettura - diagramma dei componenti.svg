@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG Architettura - diagramma dei componenti.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.10931in" height="8.16578in"
+		viewBox="0 0 439.87 587.936" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ff0000;stroke:#feffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#feffff;font-family:Calibri;font-size:1.00001em}
+		.st3 {fill:#92d050;stroke:#feffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st4 {fill:#feffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st5 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st6 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st7 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="CompCount" v:prompt="" v:val="VT0(6):26"/>
+			<v:ud v:nameU="ProInterfaceCnt" v:prompt="" v:val="VT0(5):26"/>
+			<v:ud v:nameU="ReqInterfaceCnt" v:prompt="" v:val="VT0(5):26"/>
+		</v:userDefs>
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Contenitore" v:index="0"/>
+		<g id="group1-1" transform="translate(0.250005,-516.82)" v:mID="1" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.244094488189):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.6496062992126):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.06):24"/>
+				<v:ud v:nameU="TextOffset" v:prompt="" v:val="VT0(0.0212):24"/>
+			</v:userDefs>
+			<title>Componente</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape" v:layerMember="0">
+				<title>Foglio.2</title>
+				<rect x="0" y="517.07" width="184.252" height="70.8661" class="st1"/>
+			</g>
+			<g id="group3-4" transform="translate(148.819,-38.2677)" v:mID="3" v:groupContext="group" v:layerMember="0">
+				<title>Foglio.3</title>
+				<g id="shape4-5" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(6.67232,0)">
+					<title>Foglio.4</title>
+					<rect x="0" y="562.424" width="18.8395" height="25.5118" class="st1"/>
+				</g>
+				<g id="shape5-7" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(-0.0981224,-16.3473)">
+					<title>Foglio.5</title>
+					<rect x="0" y="584.109" width="12.7559" height="3.82677" class="st1"/>
+				</g>
+				<g id="shape6-9" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(-0.0981224,-6.76139)">
+					<title>Foglio.6</title>
+					<rect x="0" y="584.109" width="12.7559" height="3.82677" class="st1"/>
+				</g>
+			</g>
+			<g id="shape7-11" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(0,-44.1424)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;componente&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="576.734" width="119.77" height="22.4037"/>
+				<text x="49.08" y="580.33" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;componente&#62;&#62;</text>			</g>
+			<g id="shape8-13" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(0,-27.5851)">
+				<title>Foglio.8</title>
+				<desc>Interfaccia Utente</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="576.734" width="128.98" height="22.4037"/>
+				<text x="48" y="580.33" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Interfaccia Utente</text>			</g>
+		</g>
+		<g id="group9-15" transform="translate(0.25,-255.368)" v:mID="9" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.244094488189):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.6496062992126):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.06):24"/>
+				<v:ud v:nameU="TextOffset" v:prompt="" v:val="VT0(0.0212):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<title>Componente.9</title>
+			<g id="shape10-16" v:mID="10" v:groupContext="shape" v:layerMember="0">
+				<title>Foglio.10</title>
+				<rect x="0" y="517.07" width="184.252" height="70.8661" class="st3"/>
+			</g>
+			<g id="group11-18" transform="translate(148.819,-38.2677)" v:mID="11" v:groupContext="group" v:layerMember="0">
+				<title>Foglio.11</title>
+				<g id="shape12-19" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(6.67232,0)">
+					<title>Foglio.12</title>
+					<rect x="0" y="562.424" width="18.8395" height="25.5118" class="st3"/>
+				</g>
+				<g id="shape13-21" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(-0.0981224,-16.3473)">
+					<title>Foglio.13</title>
+					<rect x="0" y="584.109" width="12.7559" height="3.82677" class="st3"/>
+				</g>
+				<g id="shape14-23" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(-0.0981224,-6.76139)">
+					<title>Foglio.14</title>
+					<rect x="0" y="584.109" width="12.7559" height="3.82677" class="st3"/>
+				</g>
+			</g>
+			<g id="shape15-25" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(0,-44.1424)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;componente&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="576.734" width="119.77" height="22.4037"/>
+				<text x="49.08" y="580.33" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;componente&#62;&#62;</text>			</g>
+			<g id="shape16-27" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(0,-27.5851)">
+				<title>Foglio.16</title>
+				<desc>API Utente</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="576.734" width="128.98" height="22.4037"/>
+				<text x="65.69" y="580.33" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>API Utente</text>			</g>
+		</g>
+		<g id="group17-29" transform="translate(0.25,-0.25)" v:mID="17" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.244094488189):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.6496062992126):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.06):24"/>
+				<v:ud v:nameU="TextOffset" v:prompt="" v:val="VT0(0.0212):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<title>Componente.17</title>
+			<g id="shape18-30" v:mID="18" v:groupContext="shape" v:layerMember="0">
+				<title>Foglio.18</title>
+				<rect x="0" y="517.07" width="184.252" height="70.8661" class="st4"/>
+			</g>
+			<g id="group19-32" transform="translate(148.819,-38.2677)" v:mID="19" v:groupContext="group" v:layerMember="0">
+				<title>Foglio.19</title>
+				<g id="shape20-33" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(6.67232,0)">
+					<title>Foglio.20</title>
+					<rect x="0" y="562.424" width="18.8395" height="25.5118" class="st4"/>
+				</g>
+				<g id="shape21-35" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(-0.0981224,-16.3473)">
+					<title>Foglio.21</title>
+					<rect x="0" y="584.109" width="12.7559" height="3.82677" class="st4"/>
+				</g>
+				<g id="shape22-37" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(-0.0981224,-6.76139)">
+					<title>Foglio.22</title>
+					<rect x="0" y="584.109" width="12.7559" height="3.82677" class="st4"/>
+				</g>
+			</g>
+			<g id="shape23-39" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(0,-44.1424)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;componente&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="576.734" width="119.77" height="22.4037"/>
+				<text x="49.08" y="580.33" class="st5" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;componente&#62;&#62;</text>			</g>
+			<g id="shape24-41" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(0,-27.5851)">
+				<title>Foglio.24</title>
+				<desc>DB</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="576.734" width="128.98" height="22.4037"/>
+				<text x="85.17" y="580.33" class="st5" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>DB</text>			</g>
+		</g>
+		<g id="group25-43" transform="translate(100.88,754.71) rotate(180)" v:mID="25" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(PI1)"/>
+			</v:userDefs>
+			<title>Interfaccia fornita</title>
+			<desc>Servizio</desc>
+			<g id="shape26-44" v:mID="26" v:groupContext="shape" transform="translate(596.44,493.009) rotate(90)">
+				<title>Foglio.26</title>
+				<v:userDefs>
+					<v:ud v:nameU="Lineangle" v:prompt="Defines the angle of the line" v:val="VT0(-1.570796323776):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(1.3325256842111):24"/>
+					<v:ud v:nameU="Lineangle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(1.314494681411):24"/>
+				</v:userDefs>
+				<path d="M0 587.94 L84.44 587.94" class="st6"/>
+			</g>
+			<g id="shape27-47" v:mID="27" v:groupContext="shape" transform="translate(-4.38433E-06,-86.4231)">
+				<title>Square</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="570.928" width="17.0079" height="17.0079" class="st7"/>
+			</g>
+			<g id="shape28-49" v:mID="28" v:groupContext="shape" transform="translate(-1.70079,9.92126)">
+				<title>Foglio.28</title>
+				<ellipse cx="10.2047" cy="577.731" rx="10.2047" ry="10.2047" class="st7"/>
+			</g>
+			<g id="shape25-51" v:mID="25" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="519.938" width="48.39" height="22.4037" transform="rotate(90)"/>
+				<text x="501.11" y="-47.42" transform="rotate(90)" class="st5" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Servizio</text>			</g>
+		</g>
+		<g id="group29-53" transform="translate(83.8721,-420.878) rotate(1.72969E-07)" v:mID="29" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(RI1)"/>
+			</v:userDefs>
+			<title>Interfaccia richiesta</title>
+			<desc>Richiesta</desc>
+			<g id="shape30-54" v:mID="30" v:groupContext="shape" transform="translate(596.44,491.994) rotate(90)">
+				<title>Foglio.30</title>
+				<v:userDefs>
+					<v:ud v:nameU="Lineangle" v:prompt="Defines the angle of the line" v:val="VT0(-1.570796323776):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(1.3325256842111):24"/>
+				</v:userDefs>
+				<path d="M0 587.94 L80.63 587.94" class="st6"/>
+			</g>
+			<g id="shape31-57" v:mID="31" v:groupContext="shape" transform="translate(0,-87.4379)">
+				<title>Square</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="570.928" width="17.0079" height="17.0079" class="st7"/>
+			</g>
+			<g id="shape32-59" v:mID="32" v:groupContext="shape" transform="translate(-6.80315,0)">
+				<title>Foglio.32</title>
+				<path d="M30.61 587.94 A15.3071 15.3071 -180 1 0 0 587.94" class="st6"/>
+			</g>
+			<g id="shape29-62" v:mID="29" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="-34.0158" cy="525.257" width="54.56" height="22.4037" transform="rotate(-90)"/>
+				<text x="-547.17" y="-30.42" transform="rotate(-90)" class="st5" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Richiesta</text>			</g>
+		</g>
+		<g id="group52-64" transform="translate(81.1039,-163.934) rotate(1.72972E-07)" v:mID="52" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(RI3)"/>
+			</v:userDefs>
+			<title>Interfaccia richiesta.52</title>
+			<g id="shape53-65" v:mID="53" v:groupContext="shape" transform="translate(596.186,474.709) rotate(88.3153)">
+				<title>Foglio.53</title>
+				<v:userDefs>
+					<v:ud v:nameU="Lineangle" v:prompt="Defines the angle of the line" v:val="VT0(-1.570796323776):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(1.3325256842111):24"/>
+					<v:ud v:nameU="Lineangle" v:prompt="" v:val="VT0(-1.5413925700203):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(1.3077336389601):24"/>
+				</v:userDefs>
+				<path d="M0 587.94 L78.85 587.94" class="st6"/>
+			</g>
+			<g id="shape54-68" v:mID="54" v:groupContext="shape" transform="translate(0,-87.4379)">
+				<title>Square</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="570.928" width="17.0079" height="17.0079" class="st7"/>
+			</g>
+			<g id="shape55-70" v:mID="55" v:groupContext="shape" transform="translate(-21.3134,-1.12157) rotate(-1.68471)">
+				<title>Foglio.55</title>
+				<path d="M30.61 587.94 A15.3071 15.3071 -180 1 0 0 587.94" class="st6"/>
+			</g>
+		</g>
+		<g id="group56-73" transform="translate(100.88,1009.83) rotate(180)" v:mID="56" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(PI2)"/>
+			</v:userDefs>
+			<title>Interfaccia fornita.56</title>
+			<desc>Query</desc>
+			<g id="shape57-74" v:mID="57" v:groupContext="shape" transform="translate(596.44,493.009) rotate(90)">
+				<title>Foglio.57</title>
+				<v:userDefs>
+					<v:ud v:nameU="Lineangle" v:prompt="Defines the angle of the line" v:val="VT0(-1.570796323776):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(1.3325256842111):24"/>
+					<v:ud v:nameU="Lineangle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(1.314494681411):24"/>
+				</v:userDefs>
+				<path d="M0 587.94 L84.44 587.94" class="st6"/>
+			</g>
+			<g id="shape58-77" v:mID="58" v:groupContext="shape" transform="translate(-4.38433E-06,-86.4231)">
+				<title>Square</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="570.928" width="17.0079" height="17.0079" class="st7"/>
+			</g>
+			<g id="shape59-79" v:mID="59" v:groupContext="shape" transform="translate(-1.70079,9.92126)">
+				<title>Foglio.59</title>
+				<ellipse cx="10.2047" cy="577.731" rx="10.2047" ry="10.2047" class="st7"/>
+			</g>
+			<g id="shape56-81" v:mID="56" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="519.938" width="40.69" height="22.4037" transform="rotate(90)"/>
+				<text x="504.96" y="-47.42" transform="rotate(90)" class="st5" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Query</text>			</g>
+		</g>
+		<g id="group60-83" transform="translate(255.368,-0.25)" v:mID="60" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.244094488189):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.6496062992126):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.06):24"/>
+				<v:ud v:nameU="TextOffset" v:prompt="" v:val="VT0(0.0212):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(5):26"/>
+			</v:userDefs>
+			<title>Componente.60</title>
+			<g id="shape61-84" v:mID="61" v:groupContext="shape" v:layerMember="0">
+				<title>Foglio.61</title>
+				<rect x="0" y="517.07" width="184.252" height="70.8661" class="st4"/>
+			</g>
+			<g id="group62-86" transform="translate(148.819,-38.2677)" v:mID="62" v:groupContext="group" v:layerMember="0">
+				<title>Foglio.62</title>
+				<g id="shape63-87" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(6.67232,0)">
+					<title>Foglio.63</title>
+					<rect x="0" y="562.424" width="18.8395" height="25.5118" class="st4"/>
+				</g>
+				<g id="shape64-89" v:mID="64" v:groupContext="shape" v:layerMember="0" transform="translate(-0.0981224,-16.3473)">
+					<title>Foglio.64</title>
+					<rect x="0" y="584.109" width="12.7559" height="3.82677" class="st4"/>
+				</g>
+				<g id="shape65-91" v:mID="65" v:groupContext="shape" v:layerMember="0" transform="translate(-0.0981224,-6.76139)">
+					<title>Foglio.65</title>
+					<rect x="0" y="584.109" width="12.7559" height="3.82677" class="st4"/>
+				</g>
+			</g>
+			<g id="shape66-93" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(0,-44.1424)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;componente&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="576.734" width="119.77" height="22.4037"/>
+				<text x="49.08" y="580.33" class="st5" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;componente&#62;&#62;</text>			</g>
+			<g id="shape67-95" v:mID="67" v:groupContext="shape" v:layerMember="0" transform="translate(0,-27.5851)">
+				<title>Foglio.67</title>
+				<desc>Log</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(5):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="576.734" width="128.98" height="22.4037"/>
+				<text x="83.62" y="580.33" class="st5" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Log</text>			</g>
+		</g>
+		<g id="group68-97" transform="translate(355.998,1009.83) rotate(180)" v:mID="68" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(PI4)"/>
+			</v:userDefs>
+			<title>Interfaccia fornita.68</title>
+			<desc>Log</desc>
+			<g id="shape69-98" v:mID="69" v:groupContext="shape" transform="translate(596.44,493.009) rotate(90)">
+				<title>Foglio.69</title>
+				<v:userDefs>
+					<v:ud v:nameU="Lineangle" v:prompt="Defines the angle of the line" v:val="VT0(-1.570796323776):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(1.3325256842111):24"/>
+					<v:ud v:nameU="Lineangle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(2.9330708257236):24"/>
+				</v:userDefs>
+				<path d="M0 587.94 L200.98 587.94" class="st6"/>
+			</g>
+			<g id="shape70-101" v:mID="70" v:groupContext="shape" transform="translate(-4.38433E-06,-86.4231)">
+				<title>Square</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="570.928" width="17.0079" height="17.0079" class="st7"/>
+			</g>
+			<g id="shape71-103" v:mID="71" v:groupContext="shape" transform="translate(-1.70079,126.459)">
+				<title>Foglio.71</title>
+				<ellipse cx="10.2047" cy="577.731" rx="10.2047" ry="10.2047" class="st7"/>
+			</g>
+			<g id="shape68-105" v:mID="68" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="519.938" width="27.74" height="22.4037" transform="rotate(90)"/>
+				<text x="511.43" y="-47.42" transform="rotate(90)" class="st5" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Log</text>			</g>
+		</g>
+		<g id="group72-107" transform="translate(-316.1,305.639) rotate(-90)" v:mID="72" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(RI4)"/>
+			</v:userDefs>
+			<title>Interfaccia richiesta.72</title>
+			<g id="shape73-108" v:mID="73" v:groupContext="shape" transform="translate(595.641,531.235) rotate(92.9866)">
+				<title>Foglio.73</title>
+				<v:userDefs>
+					<v:ud v:nameU="Lineangle" v:prompt="Defines the angle of the line" v:val="VT0(-1.570796323776):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(1.3325256842111):24"/>
+					<v:ud v:nameU="Lineangle" v:prompt="" v:val="VT0(-1.6229229439182):32"/>
+					<v:ud v:nameU="CntrlRadius" v:prompt="" v:val="VT0(2.26685863854):24"/>
+				</v:userDefs>
+				<path d="M0 587.94 L147.91 587.94" class="st6"/>
+			</g>
+			<g id="shape74-111" v:mID="74" v:groupContext="shape" transform="translate(0,-78.8301)">
+				<title>Square</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="570.928" width="17.0079" height="17.0079" class="st7"/>
+			</g>
+			<g id="shape75-113" v:mID="75" v:groupContext="shape" transform="translate(15.3469,75.6591) rotate(2.98664)">
+				<title>Foglio.75</title>
+				<path d="M30.61 587.94 A15.3071 15.3071 -180 1 0 0 587.94" class="st6"/>
+			</g>
+		</g>
+	</g>
+</svg>

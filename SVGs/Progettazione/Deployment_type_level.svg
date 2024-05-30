@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG Deployment_type_level.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="16.313in" height="8.76679in"
+		viewBox="0 0 1174.54 631.209" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st3 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st4 {font-size:1em}
+		.st5 {marker-end:url(#mrkr12-89);stroke:#000000;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st6 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st8 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend12">
+			<path d="M 3 1 L 0 0 L 3 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr12-89" class="st6" v:arrowType="12" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend12" transform="scale(-6.04,-6.04) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="ArtiCount" v:prompt="" v:val="VT0(46):26"/>
+			<v:ud v:nameU="NodeCount" v:prompt="" v:val="VT0(12):26"/>
+		</v:userDefs>
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Container" v:index="0"/>
+		<v:layer v:name="Connector" v:index="1"/>
+		<g id="group360-1" transform="translate(0.25,-329.069)" v:mID="360" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="UMLShapeType" v:val="VT0(26):26"/>
+				<v:ud v:nameU="UMLObjectGUID" v:val="VT4()"/>
+				<v:ud v:nameU="UMLError" v:val="VT0(0):26"/>
+				<v:ud v:nameU="UMLVersion" v:val="VT4(2.X)"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a run-time computational or physical resource.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.4015748031496):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.049299212598425):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(4):26"/>
+			</v:userDefs>
+			<title>Node</title>
+			<g id="shape361-2" v:mID="361" v:groupContext="shape" v:layerMember="0" transform="translate(212.598,1.13687E-13)">
+				<title>Foglio.361</title>
+				<path d="M0 631.21 L9 622.21 L9 480.48 L0 489.48 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape362-4" v:mID="362" v:groupContext="shape" v:layerMember="0" transform="translate(0,-141.732)">
+				<title>Foglio.362</title>
+				<path d="M0 631.21 L212.6 631.21 L221.6 622.21 L9 622.21 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape363-6" v:mID="363" v:groupContext="shape" v:layerMember="0">
+				<title>Name</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<rect x="0" y="489.476" width="212.598" height="141.732" class="st1"/>
+			</g>
+			<g id="shape364-8" v:mID="364" v:groupContext="shape" v:layerMember="0" transform="translate(0,-118.179)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;device&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="106.299" cy="621.207" width="138.19" height="20.0036"/>
+				<text x="83.22" y="624.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;device&#62;&#62;</text>			</g>
+			<g id="shape365-10" v:mID="365" v:groupContext="shape" v:layerMember="0" transform="translate(0,-99.3249)">
+				<title>Foglio.365</title>
+				<desc>DispositivoUtente</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(4):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="106.299" cy="620.007" width="148.82" height="22.4037"/>
+				<text x="62.59" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>DispositivoUtente</text>			</g>
+		</g>
+		<g id="group366-12" transform="translate(14.4232,-560.093)" v:mID="366" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(1.5748031496063):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.06):24"/>
+				<v:ud v:nameU="DataObjectXOffset" v:prompt="" v:val="VT0(0.28129921259843):24"/>
+				<v:ud v:nameU="DataObjectYOffset" v:prompt="" v:val="VT0(0.25):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(39):26"/>
+			</v:userDefs>
+			<title>Artifact.366</title>
+			<g id="shape367-13" v:mID="367" v:groupContext="shape">
+				<title>Foglio.367</title>
+				<rect x="0" y="560.343" width="184.252" height="70.8661" class="st1"/>
+			</g>
+			<g id="shape368-15" v:mID="368" v:groupContext="shape" transform="translate(0,-46.5425)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;Artifact&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="621.207" width="119.77" height="20.0036"/>
+				<text x="67" y="624.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;Artifact&#62;&#62;</text>			</g>
+			<g id="shape369-17" v:mID="369" v:groupContext="shape" transform="translate(0,-28.4588)">
+				<title>Foglio.369</title>
+				<desc>ClientUtente</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(39):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="620.007" width="128.98" height="22.4037"/>
+				<text x="61.03" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>ClientUtente</text>			</g>
+			<g id="group370-19" transform="translate(155.494,-40.1102)" v:mID="370" v:groupContext="group">
+				<title>Data Object</title>
+				<g id="shape371-20" v:mID="371" v:groupContext="shape">
+					<title>Foglio.371</title>
+					<path d="M17.01 613.04 L10.89 613.04 L10.89 605.7 L0 605.7 L0 631.21 L17.01 631.21 L17.01 613.04 ZM17.01 612.43
+								 L10.89 605.7 L10.89 613.04 L17.01 613.04 L17.01 612.43 Z" class="st1"/>
+				</g>
+				<g id="shape372-22" v:mID="372" v:groupContext="shape" transform="translate(7.44094,1.13687E-13)">
+					<title>Foglio.372</title>
+				</g>
+			</g>
+		</g>
+		<g id="group375-24" transform="translate(555.132,-312.061)" v:mID="375" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="UMLShapeType" v:val="VT0(26):26"/>
+				<v:ud v:nameU="UMLObjectGUID" v:val="VT4()"/>
+				<v:ud v:nameU="UMLError" v:val="VT0(0):26"/>
+				<v:ud v:nameU="UMLVersion" v:val="VT4(2.X)"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a run-time computational or physical resource.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.4015748031496):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.049299212598425):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(5):26"/>
+			</v:userDefs>
+			<title>Node.375</title>
+			<g id="shape376-25" v:mID="376" v:groupContext="shape" v:layerMember="0" transform="translate(378.425,1.13687E-13)">
+				<title>Foglio.376</title>
+				<path d="M0 631.21 L9 622.21 L9 445.04 L0 454.04 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape377-27" v:mID="377" v:groupContext="shape" v:layerMember="0" transform="translate(0,-177.165)">
+				<title>Foglio.377</title>
+				<path d="M0 631.21 L378.43 631.21 L387.43 622.21 L9 622.21 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape378-29" v:mID="378" v:groupContext="shape" v:layerMember="0">
+				<title>Name</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<rect x="0" y="454.043" width="378.425" height="177.165" class="st1"/>
+			</g>
+			<g id="shape379-31" v:mID="379" v:groupContext="shape" v:layerMember="0" transform="translate(0,-153.612)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;environment&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="189.213" cy="621.207" width="245.98" height="20.0036"/>
+				<text x="152.94" y="624.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;<tspan
+							class="st4" v:langID="1040">environment</tspan>&#62;&#62;</text>			</g>
+			<g id="shape380-34" v:mID="380" v:groupContext="shape" v:layerMember="0" transform="translate(0,-134.758)">
+				<title>Foglio.380</title>
+				<desc>Application Server</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(5):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="189.213" cy="620.007" width="264.9" height="22.4037"/>
+				<text x="144.59" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Application Server</text>			</g>
+		</g>
+		<g id="group381-36" transform="translate(657.888,-347.494)" v:mID="381" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="UMLShapeType" v:val="VT0(26):26"/>
+				<v:ud v:nameU="UMLObjectGUID" v:val="VT4()"/>
+				<v:ud v:nameU="UMLError" v:val="VT0(0):26"/>
+				<v:ud v:nameU="UMLVersion" v:val="VT4(2.X)"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a run-time computational or physical resource.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.4015748031496):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.049299212598425):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(6):26"/>
+			</v:userDefs>
+			<title>Node.381</title>
+			<g id="shape382-37" v:mID="382" v:groupContext="shape" v:layerMember="0" transform="translate(172.913,1.13687E-13)">
+				<title>Foglio.382</title>
+				<path d="M0 631.21 L9 622.21 L9 541.17 L0 550.17 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape383-39" v:mID="383" v:groupContext="shape" v:layerMember="0" transform="translate(0,-81.043)">
+				<title>Foglio.383</title>
+				<path d="M0 631.21 L172.91 631.21 L181.91 622.21 L9 622.21 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape384-41" v:mID="384" v:groupContext="shape" v:layerMember="0">
+				<title>Name</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<rect x="0" y="550.166" width="172.913" height="81.043" class="st1"/>
+			</g>
+			<g id="shape385-43" v:mID="385" v:groupContext="shape" v:layerMember="0" transform="translate(0,-57.4898)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;hosted service&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="86.4567" cy="621.207" width="112.4" height="20.0036"/>
+				<text x="47.16" y="624.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;<tspan
+							class="st4" v:langID="1040">hosted service</tspan>&#62;&#62;</text>			</g>
+			<g id="shape386-46" v:mID="386" v:groupContext="shape" v:layerMember="0" transform="translate(0,-38.6356)">
+				<title>Foglio.386</title>
+				<desc>Application Hosting</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(6):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="86.4567" cy="620.007" width="121.04" height="22.4037"/>
+				<text x="38.84" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Application Hosting</text>			</g>
+		</g>
+		<g id="group393-48" transform="translate(976.077,-352.583)" v:mID="393" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(1.5748031496063):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.06):24"/>
+				<v:ud v:nameU="DataObjectXOffset" v:prompt="" v:val="VT0(0.28129921259843):24"/>
+				<v:ud v:nameU="DataObjectYOffset" v:prompt="" v:val="VT0(0.25):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(40):26"/>
+			</v:userDefs>
+			<title>Artifact.393</title>
+			<g id="shape394-49" v:mID="394" v:groupContext="shape">
+				<title>Foglio.394</title>
+				<rect x="0" y="560.343" width="184.252" height="70.8661" class="st1"/>
+			</g>
+			<g id="shape395-51" v:mID="395" v:groupContext="shape" transform="translate(0,-46.5425)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;Artifact&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="621.207" width="119.77" height="20.0036"/>
+				<text x="67" y="624.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;Artifact&#62;&#62;</text>			</g>
+			<g id="shape396-53" v:mID="396" v:groupContext="shape" transform="translate(0,-28.4588)">
+				<title>Foglio.396</title>
+				<desc>RouteUtente</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(40):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="620.007" width="128.98" height="22.4037"/>
+				<text x="60.56" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>RouteUtente</text>			</g>
+			<g id="group397-55" transform="translate(155.494,-40.1102)" v:mID="397" v:groupContext="group">
+				<title>Data Object</title>
+				<g id="shape398-56" v:mID="398" v:groupContext="shape">
+					<title>Foglio.398</title>
+					<path d="M17.01 613.04 L10.89 613.04 L10.89 605.7 L0 605.7 L0 631.21 L17.01 631.21 L17.01 613.04 ZM17.01 612.43
+								 L10.89 605.7 L10.89 613.04 L17.01 613.04 L17.01 612.43 Z" class="st1"/>
+				</g>
+				<g id="shape399-58" v:mID="399" v:groupContext="shape" transform="translate(7.44094,1.13687E-13)">
+					<title>Foglio.399</title>
+				</g>
+			</g>
+		</g>
+		<g id="group401-60" transform="translate(314.187,-0.25)" v:mID="401" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="UMLShapeType" v:val="VT0(26):26"/>
+				<v:ud v:nameU="UMLObjectGUID" v:val="VT4()"/>
+				<v:ud v:nameU="UMLError" v:val="VT0(0):26"/>
+				<v:ud v:nameU="UMLVersion" v:val="VT4(2.X)"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a run-time computational or physical resource.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.4015748031496):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.049299212598425):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(8):26"/>
+			</v:userDefs>
+			<title>Node.401</title>
+			<g id="shape402-61" v:mID="402" v:groupContext="shape" v:layerMember="0" transform="translate(378.425,1.13687E-13)">
+				<title>Foglio.402</title>
+				<path d="M0 631.21 L9 622.21 L9 445.04 L0 454.04 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape403-63" v:mID="403" v:groupContext="shape" v:layerMember="0" transform="translate(0,-177.165)">
+				<title>Foglio.403</title>
+				<path d="M0 631.21 L378.43 631.21 L387.43 622.21 L9 622.21 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape404-65" v:mID="404" v:groupContext="shape" v:layerMember="0">
+				<title>Name</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<rect x="0" y="454.043" width="378.425" height="177.165" class="st1"/>
+			</g>
+			<g id="shape405-67" v:mID="405" v:groupContext="shape" v:layerMember="0" transform="translate(0,-153.612)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;environment&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="189.213" cy="621.207" width="245.98" height="20.0036"/>
+				<text x="152.94" y="624.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;<tspan
+							class="st4" v:langID="1040">environment</tspan>&#62;&#62;</text>			</g>
+			<g id="shape406-70" v:mID="406" v:groupContext="shape" v:layerMember="0" transform="translate(0,-134.758)">
+				<title>Foglio.406</title>
+				<desc>Application Data Server</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(8):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="189.213" cy="620.007" width="264.9" height="22.4037"/>
+				<text x="131.78" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Application Data Server</text>			</g>
+		</g>
+		<g id="group413-72" transform="translate(416.943,-35.6831)" v:mID="413" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="UMLShapeType" v:val="VT0(26):26"/>
+				<v:ud v:nameU="UMLObjectGUID" v:val="VT4()"/>
+				<v:ud v:nameU="UMLError" v:val="VT0(0):26"/>
+				<v:ud v:nameU="UMLVersion" v:val="VT4(2.X)"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a run-time computational or physical resource.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.4015748031496):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.049299212598425):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(7):26"/>
+			</v:userDefs>
+			<title>Node.413</title>
+			<g id="shape414-73" v:mID="414" v:groupContext="shape" v:layerMember="0" transform="translate(172.913,1.13687E-13)">
+				<title>Foglio.414</title>
+				<path d="M0 631.21 L9 622.21 L9 541.17 L0 550.17 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape415-75" v:mID="415" v:groupContext="shape" v:layerMember="0" transform="translate(0,-81.043)">
+				<title>Foglio.415</title>
+				<path d="M0 631.21 L172.91 631.21 L181.91 622.21 L9 622.21 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape416-77" v:mID="416" v:groupContext="shape" v:layerMember="0">
+				<title>Name</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<rect x="0" y="550.166" width="172.913" height="81.043" class="st1"/>
+			</g>
+			<g id="shape417-79" v:mID="417" v:groupContext="shape" v:layerMember="0" transform="translate(0,-57.4898)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;hosted service&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="86.4567" cy="621.207" width="112.4" height="20.0036"/>
+				<text x="47.16" y="624.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;<tspan
+							class="st4" v:langID="1040">hosted service</tspan>&#62;&#62;</text>			</g>
+			<g id="shape418-82" v:mID="418" v:groupContext="shape" v:layerMember="0" transform="translate(0,-38.6356)">
+				<title>Foglio.418</title>
+				<desc>DBMS</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(7):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="86.4567" cy="620.007" width="121.04" height="22.4037"/>
+				<text x="71.61" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>DBMS</text>			</g>
+		</g>
+		<g id="shape431-84" v:mID="431" v:groupContext="shape" v:layerMember="1" transform="translate(99.4626,-560.093)">
+			<title>Deploy</title>
+			<desc>&#60;&#60;deploy&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-1.91339" cy="671.39" width="67.72" height="22.4037" transform="rotate(90)"/>
+			<path d="M7.09 631.21 L7.09 720.5" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="642.89" y="-5.28642" width="57.0004" height="14.4001" transform="rotate(90)"
+					class="st7"/>
+			<text x="642.89" y="5.51" transform="rotate(90)" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;deploy&#62;&#62;</text>		</g>
+		<g id="shape432-92" v:mID="432" v:groupContext="shape" v:layerMember="1" transform="translate(976.077,-380.929)">
+			<title>Deploy.432</title>
+			<desc>&#60;&#60;deploy&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-65.374" cy="615.122" width="67.72" height="22.4037"/>
+			<path d="M0 624.12 L-145.28 624.12" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="-93.8741" y="607.922" width="57.0004" height="14.4001" class="st7"/>
+			<text x="-93.87" y="618.72" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;deploy&#62;&#62;</text>		</g>
+		<g id="group453-99" transform="translate(786.864,-0.25)" v:mID="453" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="UMLShapeType" v:val="VT0(26):26"/>
+				<v:ud v:nameU="UMLObjectGUID" v:val="VT4()"/>
+				<v:ud v:nameU="UMLError" v:val="VT0(0):26"/>
+				<v:ud v:nameU="UMLVersion" v:val="VT4(2.X)"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a run-time computational or physical resource.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.4015748031496):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.049299212598425):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<title>Node.453</title>
+			<g id="shape454-100" v:mID="454" v:groupContext="shape" v:layerMember="0" transform="translate(378.425,1.13687E-13)">
+				<title>Foglio.454</title>
+				<path d="M0 631.21 L9 622.21 L9 445.04 L0 454.04 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape455-102" v:mID="455" v:groupContext="shape" v:layerMember="0" transform="translate(0,-177.165)">
+				<title>Foglio.455</title>
+				<path d="M0 631.21 L378.43 631.21 L387.43 622.21 L9 622.21 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape456-104" v:mID="456" v:groupContext="shape" v:layerMember="0">
+				<title>Name</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<rect x="0" y="454.043" width="378.425" height="177.165" class="st1"/>
+			</g>
+			<g id="shape457-106" v:mID="457" v:groupContext="shape" v:layerMember="0" transform="translate(0,-153.612)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;environment&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="189.213" cy="621.207" width="245.98" height="20.0036"/>
+				<text x="152.94" y="624.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;<tspan
+							class="st4" v:langID="1040">environment</tspan>&#62;&#62;</text>			</g>
+			<g id="shape458-109" v:mID="458" v:groupContext="shape" v:layerMember="0" transform="translate(0,-134.758)">
+				<title>Foglio.458</title>
+				<desc>Log Server</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(11):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="189.213" cy="620.007" width="264.9" height="22.4037"/>
+				<text x="163.72" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Log Server</text>			</g>
+		</g>
+		<g id="group459-111" transform="translate(889.62,-35.6831)" v:mID="459" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="UMLShapeType" v:val="VT0(26):26"/>
+				<v:ud v:nameU="UMLObjectGUID" v:val="VT4()"/>
+				<v:ud v:nameU="UMLError" v:val="VT0(0):26"/>
+				<v:ud v:nameU="UMLVersion" v:val="VT4(2.X)"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a run-time computational or physical resource.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				<v:ud v:nameU="Stereotype" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(2.4015748031496):24"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StereotypeOffset" v:prompt="" v:val="VT0(0.049299212598425):24"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT0(7):26"/>
+			</v:userDefs>
+			<title>Node.459</title>
+			<g id="shape460-112" v:mID="460" v:groupContext="shape" v:layerMember="0" transform="translate(172.913,1.13687E-13)">
+				<title>Foglio.460</title>
+				<path d="M0 631.21 L9 622.21 L9 541.17 L0 550.17 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape461-114" v:mID="461" v:groupContext="shape" v:layerMember="0" transform="translate(0,-81.043)">
+				<title>Foglio.461</title>
+				<path d="M0 631.21 L172.91 631.21 L181.91 622.21 L9 622.21 L0 631.21 Z" class="st1"/>
+			</g>
+			<g id="shape462-116" v:mID="462" v:groupContext="shape" v:layerMember="0">
+				<title>Name</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<rect x="0" y="550.166" width="172.913" height="81.043" class="st1"/>
+			</g>
+			<g id="shape463-118" v:mID="463" v:groupContext="shape" v:layerMember="0" transform="translate(0,-57.4898)">
+				<title>Class.11</title>
+				<desc>&#60;&#60;hosted service&#62;&#62;</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="86.4567" cy="621.207" width="112.4" height="20.0036"/>
+				<text x="47.16" y="624.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;<tspan
+							class="st4" v:langID="1040">hosted service</tspan>&#62;&#62;</text>			</g>
+			<g id="shape464-121" v:mID="464" v:groupContext="shape" v:layerMember="0" transform="translate(0,-38.6356)">
+				<title>Foglio.464</title>
+				<desc>File di testo</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Label" v:prompt="" v:val="VT0(7):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="86.4567" cy="620.007" width="121.04" height="22.4037"/>
+				<text x="58.2" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>File di testo</text>			</g>
+		</g>
+		<g id="group465-123" transform="translate(715.998,-312.061)" v:mID="465" v:groupContext="group" v:layerMember="1">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(2.2204460492503E-16):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-0.029527559055118):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.029527559055118):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0):32"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-0.072342526385098):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(-3.5527136788005E-15):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(-0.072342526385094):1"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+			</v:userDefs>
+			<title>Association</title>
+			<g id="shape467-124" v:mID="467" v:groupContext="shape" transform="translate(-21.8094,32.6234)">
+				<title>Foglio.467</title>
+				<desc>1</desc>
+				<v:userDefs>
+					<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="Con1X" v:prompt="" v:val="VT0(0):1"/>
+					<v:ud v:nameU="Con1Y" v:prompt="" v:val="VT0(-0.029527559055118):1"/>
+					<v:ud v:nameU="Con1Y" v:prompt="" v:val="VT0(-0.072342526385098):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="8.39922" cy="620.007" width="16.8" height="22.4037"/>
+				<text x="5.36" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>			</g>
+			<g id="shape468-126" v:mID="468" v:groupContext="shape" transform="translate(-207.587,124.426)">
+				<title>Foglio.468</title>
+				<desc>1</desc>
+				<v:userDefs>
+					<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0):32"/>
+					<v:ud v:nameU="Con2X" v:prompt="" v:val="VT0(0.95472440944882):1"/>
+					<v:ud v:nameU="Con2Y" v:prompt="" v:val="VT0(-0.98425196850394):1"/>
+					<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="Con2X" v:prompt="" v:val="VT0(-2.9527563841479):1"/>
+					<v:ud v:nameU="Con2Y" v:prompt="" v:val="VT0(-1.7977361818064):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="8.39922" cy="620.007" width="16.8" height="22.4037"/>
+				<text x="5.36" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>			</g>
+			<g id="shape465-128" v:mID="465" v:groupContext="groupContent" v:layerMember="1">
+				<path d="M0 631.21 L0 667.21 L-212.6 667.21 L-212.6 765.85" class="st8"/>
+			</g>
+		</g>
+		<g id="group470-131" transform="translate(778.177,-312.061)" v:mID="470" v:groupContext="group" v:layerMember="1">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(2.2204460492503E-16):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-0.029527559055118):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.029527559055118):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0):32"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-0.069280224966185):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(-8.8817841970013E-15):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(-0.069280224966183):1"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-1.570796326795):32"/>
+			</v:userDefs>
+			<title>Association.470</title>
+			<g id="shape471-132" v:mID="471" v:groupContext="shape" transform="translate(5.01099,32.4029)">
+				<title>Foglio.471</title>
+				<desc>1</desc>
+				<v:userDefs>
+					<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="Con1X" v:prompt="" v:val="VT0(0):1"/>
+					<v:ud v:nameU="Con1Y" v:prompt="" v:val="VT0(-0.029527559055118):1"/>
+					<v:ud v:nameU="Con1Y" v:prompt="" v:val="VT0(-0.069280224966185):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="8.39922" cy="620.007" width="16.8" height="22.4037"/>
+				<text x="5.36" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>			</g>
+			<g id="shape474-134" v:mID="474" v:groupContext="shape" transform="translate(176.09,124.646)">
+				<title>Foglio.474</title>
+				<desc>1</desc>
+				<v:userDefs>
+					<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0):32"/>
+					<v:ud v:nameU="Con2X" v:prompt="" v:val="VT0(0.95472440944882):1"/>
+					<v:ud v:nameU="Con2Y" v:prompt="" v:val="VT0(-0.98425196850394):1"/>
+					<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-1.570796326795):32"/>
+					<v:ud v:nameU="Con2X" v:prompt="" v:val="VT0(2.7486029562209):1"/>
+					<v:ud v:nameU="Con2Y" v:prompt="" v:val="VT0(-1.8007984832253):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="8.39922" cy="620.007" width="16.8" height="22.4037"/>
+				<text x="5.36" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>			</g>
+			<g id="shape470-136" v:mID="470" v:groupContext="groupContent" v:layerMember="1">
+				<path d="M0 631.21 L0 667.21 L197.9 667.21 L197.9 765.85" class="st8"/>
+			</g>
+		</g>
+		<g id="group475-139" transform="translate(212.848,-393.203)" v:mID="475" v:groupContext="group" v:layerMember="1">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(2.2204460492503E-16):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-0.029527559055118):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.029527559055118):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0):32"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.071309052549992):24"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(0.00014763762434988):24"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.07130905254999):24"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0.00014763762434988):24"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(0.0020703880940842):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0.0020703880940842):32"/>
+			</v:userDefs>
+			<title>Association.475</title>
+			<g id="shape476-140" v:mID="476" v:groupContext="shape" transform="translate(10.1349,-11.7643)">
+				<title>Foglio.476</title>
+				<desc>1</desc>
+				<v:userDefs>
+					<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="Con1X" v:prompt="" v:val="VT0(0):1"/>
+					<v:ud v:nameU="Con1Y" v:prompt="" v:val="VT0(-0.029527559055118):1"/>
+					<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(0.0020703880940842):32"/>
+					<v:ud v:nameU="Con1X" v:prompt="" v:val="VT0(0.071309052549992):1"/>
+					<v:ud v:nameU="Con1Y" v:prompt="" v:val="VT0(0.093651580329746):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="8.39922" cy="620.007" width="16.8" height="22.4037"/>
+				<text x="5.36" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>			</g>
+			<g id="shape478-142" v:mID="478" v:groupContext="shape" transform="translate(303.294,-12.4309)">
+				<title>Foglio.478</title>
+				<desc>0..*</desc>
+				<v:userDefs>
+					<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0):32"/>
+					<v:ud v:nameU="Con2X" v:prompt="" v:val="VT0(0.95472440944882):1"/>
+					<v:ud v:nameU="Con2Y" v:prompt="" v:val="VT0(-0.98425196850394):1"/>
+					<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0.0020703880940842):32"/>
+					<v:ud v:nameU="Con2X" v:prompt="" v:val="VT0(4.682627784116):1"/>
+					<v:ud v:nameU="Con2Y" v:prompt="" v:val="VT0(0.10319881337104):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="14.4167" cy="620.007" width="28.84" height="22.4037"/>
+				<text x="5.36" y="623.61" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>0..*</text>			</g>
+			<g id="shape475-144" v:mID="475" v:groupContext="groupContent" v:layerMember="1">
+				<path d="M0 624.48 L342.28 623.77" class="st8"/>
+			</g>
+		</g>
+	</g>
+</svg>

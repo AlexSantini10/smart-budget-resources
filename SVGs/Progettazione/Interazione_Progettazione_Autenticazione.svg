@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG Interazione_Progettazione_Autenticazione.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="9.58016in" height="18.0133in"
+		viewBox="0 0 689.771 1296.95" xml:space="preserve" color-interpolation-filters="sRGB" class="st33">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="visTLShowProps" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st3 {stroke:#000000;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st4 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st5 {fill:#73ae42;stroke:#42829e;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st6 {fill:#ffffff;font-family:Calibri;font-size:0.666664em}
+		.st7 {stroke:#42829e;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st8 {fill:#ffffff;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st9 {font-size:1em}
+		.st10 {fill:#ff0000;stroke:#42829e;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st11 {marker-end:url(#mrkr3-62);stroke:#6ca43d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st12 {fill:#6ca43d;fill-opacity:1;stroke:#6ca43d;stroke-opacity:1;stroke-width:0.13368983957219}
+		.st13 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st14 {fill:#53802e;font-family:Calibri;font-size:0.666664em}
+		.st15 {marker-end:url(#mrkr4-77);stroke:#6ca43d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st16 {fill:#73ae42;stroke:#6ca43d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st17 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st18 {stroke:#5592c9;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st19 {marker-end:url(#mrkr3-62);stroke:#6ca43d;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st20 {fill:#a5a5a5;fill-opacity:0;stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st21 {fill:#ffffff;stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st22 {fill:#000000;font-family:Calibri;font-size:0.666664em;font-weight:bold}
+		.st23 {fill:#ffffff;font-family:Calibri;font-size:1.00001em}
+		.st24 {fill:#a5a5a5;font-family:Calibri;font-size:0.666664em;font-weight:bold}
+		.st25 {fill:none}
+		.st26 {stroke:#4271c6;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st27 {fill:#4271c5;font-family:Calibri;font-size:0.666664em}
+		.st28 {marker-end:url(#mrkr4-296);stroke:#849e33;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st29 {fill:#849e33;fill-opacity:1;stroke:#849e33;stroke-opacity:1;stroke-width:0.13368983957219}
+		.st30 {fill:#849e33;font-family:Calibri;font-size:0.666664em}
+		.st31 {marker-end:url(#mrkr3-304);stroke:#849e33;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st32 {fill:#000000;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st33 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend3">
+			<path d="M 2 1 L 0 0 L 2 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr3-62" class="st12" v:arrowType="3" v:arrowSize="3" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend3" transform="scale(-7.48,-7.48) "/>
+		</marker>
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-77" class="st12" v:arrowType="4" v:arrowSize="3" v:setback="14.96" refX="-14.96" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-7.48,-7.48) "/>
+		</marker>
+		<marker id="mrkr4-296" class="st29" v:arrowType="4" v:arrowSize="3" v:setback="14.96" refX="-14.96" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-7.48,-7.48) "/>
+		</marker>
+		<marker id="mrkr3-304" class="st29" v:arrowType="3" v:arrowSize="3" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend3" transform="scale(-7.48,-7.48) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="visNavType" v:val="VT0(1):26"/>
+		</v:userDefs>
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Connettore" v:index="0"/>
+		<v:layer v:name="Connector" v:index="1"/>
+		<g id="group1-1" transform="translate(0.25,-742.373)" v:mID="1" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(1000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;attore</title>
+			<desc>Utente</desc>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape">
+				<title>Foglio.2</title>
+				<desc>Utente</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="1284.2" width="51.03" height="25.5118"/>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st1"/>
+				<text x="14.18" y="1286.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Utente</text>			</g>
+			<g id="shape3-5" v:mID="3" v:groupContext="shape" transform="translate(17.0079,-29.0551)">
+				<title>Foglio.3</title>
+				<path d="M3.4 1296.95 L3.4 1279.95 L3.4 1286.75 L0 1286.75 L0 1273.14 L1.7 1271.44 L15.31 1271.44 L17.01 1273.14
+							 L17.01 1286.75 L13.61 1286.75 L13.61 1279.95 L13.61 1296.95 L8.5 1296.95 L8.5 1283.35 L8.5 1296.95 L3.4
+							 1296.95 ZM11.91 1266.34 A3.40157 3.40157 -180 1 0 5.1 1266.34 A3.40157 3.40157 -180 1 0 11.91 1266.34
+							 Z" class="st1"/>
+			</g>
+			<g id="shape4-7" v:mID="4" v:groupContext="shape" transform="translate(17.0079,280.103)">
+				<title>Foglio.4</title>
+			</g>
+			<g id="shape5-9" v:mID="5" v:groupContext="shape" transform="translate(1322.47,1296.95) rotate(90)">
+				<title>Foglio.5</title>
+				<path d="M0 1296.95 L262.49 1296.95" class="st3"/>
+			</g>
+			<g id="shape1-12" v:mID="1" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="1284.2" width="51.03" height="25.5118"/>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st1"/>
+				<text x="8.17" y="1287.8" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Utente</text>			</g>
+		</g>
+		<g id="group16-15" transform="translate(318.581,-742.373)" v:mID="16" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(2000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;oggetto.16</title>
+			<desc>:RegistrazioneUtenteController</desc>
+			<g id="shape17-16" v:mID="17" v:groupContext="shape" transform="translate(30.4152,0)">
+				<title>Foglio.17</title>
+				<desc>:GestioneTransazioniController</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="55.3901" cy="1284.2" width="110.79" height="25.5118"/>
+				<rect x="0" y="1271.44" width="110.78" height="25.5118" class="st5"/>
+				<text x="4.91" y="1286.6" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>:GestioneTransazioniController</text>			</g>
+			<g id="shape18-19" v:mID="18" v:groupContext="shape" transform="translate(77.3013,-29.0551)">
+				<title>Foglio.18</title>
+				<path d="M8.5 1296.95 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st5"/>
+			</g>
+			<g id="shape19-21" v:mID="19" v:groupContext="shape" transform="translate(57.2035,280.103)">
+				<title>Foglio.19</title>
+			</g>
+			<g id="shape20-23" v:mID="20" v:groupContext="shape" transform="translate(1382.76,1296.95) rotate(90)">
+				<title>Foglio.20</title>
+				<path d="M0 1296.95 L262.49 1296.95" class="st7"/>
+			</g>
+			<g id="shape16-26" v:mID="16" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="85.8053" cy="1284.2" width="171.62" height="25.5118"/>
+				<rect x="0" y="1271.44" width="171.611" height="25.5118" class="st5"/>
+				<text x="8.04" y="1287.8" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>:<tspan
+							class="st9" v:langID="1040">RegistrazioneUtenteController</tspan></text>			</g>
+		</g>
+		<g id="group26-30" transform="translate(84.439,-742.373)" v:mID="26" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(3000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;oggetto.26</title>
+			<desc>:HomeAccesso</desc>
+			<g id="shape27-31" v:mID="27" v:groupContext="shape" transform="translate(26.0787,0)">
+				<title>Foglio.27</title>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st10"/>
+			</g>
+			<g id="shape28-33" v:mID="28" v:groupContext="shape" transform="translate(43.0866,-29.0551)">
+				<title>Foglio.28</title>
+				<path d="M8.5 1296.95 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st10"/>
+			</g>
+			<g id="shape29-35" v:mID="29" v:groupContext="shape" transform="translate(34.3937,280.103)">
+				<title>Foglio.29</title>
+			</g>
+			<g id="shape30-37" v:mID="30" v:groupContext="shape" transform="translate(1348.55,1296.95) rotate(90)">
+				<title>Foglio.30</title>
+				<path d="M0 1296.95 L262.49 1296.95" class="st7"/>
+			</g>
+			<g id="shape26-40" v:mID="26" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.5906" cy="1284.2" width="103.19" height="25.5118"/>
+				<rect x="0" y="1271.44" width="103.181" height="25.5118" class="st10"/>
+				<text x="15.33" y="1287.8" class="st8" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>:HomeAccesso</text>			</g>
+		</g>
+		<g id="group46-43" transform="translate(201.51,-725.082)" v:mID="46" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(4000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;oggetto.46</title>
+			<desc>:View Registrazione</desc>
+			<g id="shape47-44" v:mID="47" v:groupContext="shape" transform="translate(26.0787,-8.64567)">
+				<title>Foglio.47</title>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st10"/>
+			</g>
+			<g id="shape48-46" v:mID="48" v:groupContext="shape" transform="translate(43.0866,-46.3465)">
+				<title>Foglio.48</title>
+				<path d="M8.5 1296.95 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st10"/>
+			</g>
+			<g id="shape49-48" v:mID="49" v:groupContext="shape" transform="translate(34.3937,275.791)">
+				<title>Foglio.49</title>
+			</g>
+			<g id="shape50-50" v:mID="50" v:groupContext="shape" transform="translate(1348.55,1296.95) rotate(90)">
+				<title>Foglio.50</title>
+				<path d="M0 1296.95 L252 1296.95" class="st7"/>
+			</g>
+			<g id="shape46-53" v:mID="46" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.5906" cy="1275.55" width="103.19" height="42.8031"/>
+				<rect x="0" y="1254.15" width="103.181" height="42.8031" class="st10"/>
+				<text x="37.42" y="1271.95" class="st8" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>:View <tspan
+							x="17.98" dy="1.2em" class="st9">Registrazione</tspan></text>			</g>
+		</g>
+		<g id="shape57-57" v:mID="57" v:groupContext="shape" v:layerMember="0" transform="translate(25.7618,-681.287)">
+			<title>Messaggio asincrono.57</title>
+			<desc>Registrazione Utente</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(5000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.1339" cy="1289.87" width="78.03" height="17.6036"/>
+			<path d="M0 1289.87 L110.27 1289.87" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="21.0251" y="1285.07" width="68.2177" height="9.59985" class="st13"/>
+			<text x="21.03" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Registrazione Utente</text>		</g>
+		<g id="shape58-65" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(136.03,-663.641)">
+			<title>Messaggio asincrono.58</title>
+			<desc>show()</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(6000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="58.5354" cy="1289.87" width="40" height="17.6036"/>
+			<path d="M0 1290.22 L117.07 1289.51" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="47.475" y="1285.07" width="22.121" height="9.59985" class="st13"/>
+			<text x="47.48" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>show()</text>		</g>
+		<g id="shape59-72" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(253.1,-640.681)">
+			<title>Messaggio asincrono.59</title>
+			<desc>effettuaRegistrazione(email, password)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(7000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.5168" cy="1304.04" width="137.56" height="17.6036"/>
+			<path d="M0 1303.69 L139.55 1304.36" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="9.6446" y="1299.24" width="127.745" height="9.59985" class="st13"/>
+			<text x="9.64" y="1306.44" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>effettuaRegistrazione(email, password)</text>		</g>
+		<g id="shape60-80" v:mID="60" v:groupContext="shape" transform="translate(-888.317,734.581) rotate(-90)">
+			<title>Attivazione</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(8000):26"/>
+			</v:userDefs>
+			<rect x="0" y="1288.45" width="72" height="8.50394" class="st16"/>
+		</g>
+		<g id="group62-82" transform="translate(598.813,-586.468)" v:mID="62" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(9000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;oggetto.62</title>
+			<desc>:Utente</desc>
+			<g id="shape63-83" v:mID="63" v:groupContext="shape" transform="translate(19.8425,0)">
+				<title>Foglio.63</title>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st17"/>
+			</g>
+			<g id="shape64-85" v:mID="64" v:groupContext="shape" transform="translate(36.8504,-29.0551)">
+				<title>Foglio.64</title>
+				<path d="M8.5 1296.95 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st17"/>
+			</g>
+			<g id="shape65-87" v:mID="65" v:groupContext="shape" transform="translate(30.2362,41.2137)">
+				<title>Foglio.65</title>
+			</g>
+			<g id="shape66-89" v:mID="66" v:groupContext="shape" transform="translate(1342.31,1296.95) rotate(90)">
+				<title>Foglio.66</title>
+				<path d="M0 1296.95 L23.6 1296.95" class="st18"/>
+			</g>
+			<g id="shape62-92" v:mID="62" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="45.3543" cy="1284.2" width="90.71" height="25.5118"/>
+				<rect x="0" y="1271.44" width="90.7087" height="25.5118" class="st17"/>
+				<text x="26.36" y="1287.8" class="st8" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>:Utente</text>			</g>
+		</g>
+		<g id="shape67-95" v:mID="67" v:groupContext="shape" v:layerMember="0" transform="translate(408.638,-591.884)">
+			<title>Messaggio</title>
+			<desc>create</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(10000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="95.0873" cy="1289.87" width="40" height="17.6036"/>
+			<path d="M0 1290.04 L182.69 1289.71" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="84.7652" y="1285.07" width="20.6441" height="9.59985" class="st13"/>
+			<text x="84.77" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>create</text>		</g>
+		<g id="shape168-102" v:mID="168" v:groupContext="shape" v:layerMember="1" transform="translate(404.386,-558.122)">
+			<title>Return Message</title>
+			<desc>JWT</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(13000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-75.5011" cy="1289.87" width="40" height="17.6036"/>
+			<path d="M0 1289.87 L-151 1289.87" class="st19"/>
+			<rect v:rectContext="textBkgnd" x="-82.2842" y="1285.07" width="13.5665" height="9.59985" class="st13"/>
+			<text x="-82.28" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>JWT</text>		</g>
+		<g id="group171-109" transform="translate(518.99,-742.373)" v:mID="171" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(14000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;attore.171</title>
+			<desc>DB</desc>
+			<g id="shape172-110" v:mID="172" v:groupContext="shape">
+				<title>Foglio.172</title>
+				<desc>Utente</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="1284.2" width="51.03" height="25.5118"/>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st1"/>
+				<text x="14.18" y="1286.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Utente</text>			</g>
+			<g id="shape174-113" v:mID="174" v:groupContext="shape" transform="translate(17.0079,280.103)">
+				<title>Foglio.174</title>
+			</g>
+			<g id="shape175-115" v:mID="175" v:groupContext="shape" transform="translate(1322.47,1296.95) rotate(90)">
+				<title>Foglio.175</title>
+				<path d="M0 1296.95 L262.49 1296.95" class="st3"/>
+			</g>
+			<g id="shape171-118" v:mID="171" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="1284.2" width="51.03" height="25.5118"/>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st1"/>
+				<text x="18.37" y="1287.8" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>DB</text>			</g>
+		</g>
+		<g id="shape176-121" v:mID="176" v:groupContext="shape" v:layerMember="0" transform="translate(408.638,-609.145)">
+			<title>Messaggio asincrono.176</title>
+			<desc>connection</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(15000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="67.932" cy="1289.87" width="46.13" height="17.6036"/>
+			<path d="M0 1289.87 L128.38 1289.87" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="49.7782" y="1285.07" width="36.3079" height="9.59985" class="st13"/>
+			<text x="49.78" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>connection</text>		</g>
+		<g id="group181-128" transform="translate(85.2894,-910.877)" v:mID="181" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(18000):26"/>
+			</v:userDefs>
+			<title>Frammento facoltativo.181</title>
+			<g id="shape181-129" v:mID="181" v:groupContext="groupContent">
+				<rect x="0" y="911.127" width="449.008" height="385.828" class="st20"/>
+			</g>
+			<g id="shape182-131" v:mID="182" v:groupContext="shape" transform="translate(0,-368.224)">
+				<title>Foglio.182</title>
+				<desc>sd verificaAutorizzazione</desc>
+				<v:userDefs>
+					<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.098425196850394):24"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#a5a5a5)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#a5a5a5)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#a5a5a5)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="46.3088" cy="1288.15" width="92.62" height="17.6036"/>
+				<path d="M0 1296.95 L85.53 1296.95 L92.62 1289.87 L92.62 1279.35 L0 1279.35 L0 1296.95 Z" class="st21"/>
+				<text x="4" y="1290.55" class="st22" v:langID="1040"><v:paragraph/><v:tabList/>sd verificaAutorizzazione</text>			</g>
+		</g>
+		<g id="group184-134" transform="translate(173.589,-1219.49)" v:mID="184" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(19000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;oggetto.184</title>
+			<desc>:Controller</desc>
+			<g id="shape186-135" v:mID="186" v:groupContext="shape" transform="translate(38.3386,-46.063)">
+				<title>Foglio.186</title>
+				<path d="M8.5 1296.95 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st5"/>
+			</g>
+			<g id="shape187-137" v:mID="187" v:groupContext="shape" transform="translate(31.2283,310.584)">
+				<title>Foglio.187</title>
+			</g>
+			<g id="shape188-139" v:mID="188" v:groupContext="shape" transform="translate(1343.8,1296.95) rotate(90)">
+				<title>Foglio.188</title>
+				<path d="M0 1296.95 L286.89 1296.95" class="st7"/>
+			</g>
+			<g id="shape184-142" v:mID="184" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="46.8425" cy="1275.69" width="93.69" height="42.5197"/>
+				<rect x="0" y="1254.43" width="93.685" height="42.5197" class="st5"/>
+				<text x="20.62" y="1279.29" class="st23" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>:Controller</text>			</g>
+		</g>
+		<g id="shape198-145" v:mID="198" v:groupContext="shape" v:layerMember="1" transform="translate(220.431,-1050.54)">
+			<title>Return Message.198</title>
+			<desc>autorizzazione</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(20000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-67.5709" cy="1289.87" width="56.93" height="17.6036"/>
+			<path d="M0 1290 L-135.14 1289.73" class="st19"/>
+			<rect v:rectContext="textBkgnd" x="-91.1253" y="1285.07" width="47.1091" height="9.59985" class="st13"/>
+			<text x="-91.13" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>autorizzazione</text>		</g>
+		<g id="shape200-152" v:mID="200" v:groupContext="shape" v:layerMember="0" transform="translate(213.344,-1201.49)">
+			<title>Messaggio.200</title>
+			<desc>decryptJWT</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(21000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.179" cy="1313.82" width="48.24" height="17.6036"/>
+			<path d="M7.09 1296.95 L25.09 1296.95 L25.09 1332.95 L14.57 1332.95" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="22.9663" y="1309.02" width="38.4255" height="9.59985" class="st13"/>
+			<text x="22.97" y="1316.22" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>decryptJWT</text>		</g>
+		<g id="shape201-159" v:mID="201" v:groupContext="shape" v:layerMember="0" transform="translate(213.344,-1147.49)">
+			<title>Messaggio.201</title>
+			<desc>checkAutorizzazione</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(22000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="54.4961" cy="1309.99" width="76.31" height="17.6036"/>
+			<path d="M7.09 1296.95 L25.09 1296.95 L25.09 1332.95 L14.57 1332.95" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="21.2505" y="1305.19" width="66.4915" height="9.59985" class="st13"/>
+			<text x="21.25" y="1312.39" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>checkAutorizzazione</text>		</g>
+		<g id="group202-166" transform="translate(0.25,-371.814)" v:mID="202" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(23000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;attore.202</title>
+			<desc>Utente</desc>
+			<g id="shape203-167" v:mID="203" v:groupContext="shape">
+				<title>Foglio.203</title>
+				<desc>Utente</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="1284.2" width="51.03" height="25.5118"/>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st1"/>
+				<text x="14.18" y="1286.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Utente</text>			</g>
+			<g id="shape204-170" v:mID="204" v:groupContext="shape" transform="translate(17.0079,-29.0551)">
+				<title>Foglio.204</title>
+				<path d="M3.4 1296.95 L3.4 1279.95 L3.4 1286.75 L0 1286.75 L0 1273.14 L1.7 1271.44 L15.31 1271.44 L17.01 1273.14
+							 L17.01 1286.75 L13.61 1286.75 L13.61 1279.95 L13.61 1296.95 L8.5 1296.95 L8.5 1283.35 L8.5 1296.95 L3.4
+							 1296.95 ZM11.91 1266.34 A3.40157 3.40157 -180 1 0 5.1 1266.34 A3.40157 3.40157 -180 1 0 11.91 1266.34
+							 Z" class="st1"/>
+			</g>
+			<g id="shape205-172" v:mID="205" v:groupContext="shape" transform="translate(17.0079,371.308)">
+				<title>Foglio.205</title>
+			</g>
+			<g id="shape206-174" v:mID="206" v:groupContext="shape" transform="translate(1322.47,1296.95) rotate(90)">
+				<title>Foglio.206</title>
+				<path d="M0 1296.95 L353.69 1296.95" class="st3"/>
+			</g>
+			<g id="shape202-177" v:mID="202" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="1284.2" width="51.03" height="25.5118"/>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st1"/>
+				<text x="8.17" y="1287.8" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Utente</text>			</g>
+		</g>
+		<g id="group207-180" transform="translate(329.99,-371.814)" v:mID="207" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(24000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;oggetto.207</title>
+			<desc>:AutenticazioneController</desc>
+			<g id="shape208-181" v:mID="208" v:groupContext="shape" transform="translate(30.4152,0)">
+				<title>Foglio.208</title>
+				<desc>:GestioneTransazioniController</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="55.3901" cy="1284.2" width="110.79" height="25.5118"/>
+				<rect x="0" y="1271.44" width="110.78" height="25.5118" class="st5"/>
+				<text x="4.91" y="1286.6" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>:GestioneTransazioniController</text>			</g>
+			<g id="shape209-184" v:mID="209" v:groupContext="shape" transform="translate(77.3013,-29.0551)">
+				<title>Foglio.209</title>
+				<path d="M8.5 1296.95 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st5"/>
+			</g>
+			<g id="shape210-186" v:mID="210" v:groupContext="shape" transform="translate(57.2035,365.639)">
+				<title>Foglio.210</title>
+			</g>
+			<g id="shape211-188" v:mID="211" v:groupContext="shape" transform="translate(1382.76,1296.95) rotate(90)">
+				<title>Foglio.211</title>
+				<path d="M0 1296.95 L348.02 1296.95" class="st7"/>
+			</g>
+			<g id="shape207-191" v:mID="207" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="85.8053" cy="1284.2" width="171.62" height="25.5118"/>
+				<rect x="0" y="1271.44" width="171.611" height="25.5118" class="st5"/>
+				<text x="22.97" y="1287.8" class="st23" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>:AutenticazioneController</text>			</g>
+		</g>
+		<g id="group212-194" transform="translate(84.439,-371.814)" v:mID="212" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(25000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;oggetto.212</title>
+			<desc>:HomeAccesso</desc>
+			<g id="shape213-195" v:mID="213" v:groupContext="shape" transform="translate(26.0787,0)">
+				<title>Foglio.213</title>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st10"/>
+			</g>
+			<g id="shape214-197" v:mID="214" v:groupContext="shape" transform="translate(43.0866,-29.0551)">
+				<title>Foglio.214</title>
+				<path d="M8.5 1296.95 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st10"/>
+			</g>
+			<g id="shape215-199" v:mID="215" v:groupContext="shape" transform="translate(34.3937,371.308)">
+				<title>Foglio.215</title>
+			</g>
+			<g id="shape216-201" v:mID="216" v:groupContext="shape" transform="translate(1348.55,1296.95) rotate(90)">
+				<title>Foglio.216</title>
+				<path d="M0 1296.95 L353.69 1296.95" class="st7"/>
+			</g>
+			<g id="shape212-204" v:mID="212" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.5906" cy="1284.2" width="103.19" height="25.5118"/>
+				<rect x="0" y="1271.44" width="103.181" height="25.5118" class="st10"/>
+				<text x="15.33" y="1287.8" class="st8" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>:HomeAccesso</text>			</g>
+		</g>
+		<g id="group217-207" transform="translate(201.51,-354.523)" v:mID="217" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(26000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;oggetto.217</title>
+			<desc>:View Autenticazione</desc>
+			<g id="shape218-208" v:mID="218" v:groupContext="shape" transform="translate(31.1811,-8.64567)">
+				<title>Foglio.218</title>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st10"/>
+			</g>
+			<g id="shape219-210" v:mID="219" v:groupContext="shape" transform="translate(48.189,-46.3465)">
+				<title>Foglio.219</title>
+				<path d="M8.5 1296.95 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st10"/>
+			</g>
+			<g id="shape220-212" v:mID="220" v:groupContext="shape" transform="translate(37.7953,354.523)">
+				<title>Foglio.220</title>
+			</g>
+			<g id="shape221-214" v:mID="221" v:groupContext="shape" transform="translate(1353.65,1296.95) rotate(90)">
+				<title>Foglio.221</title>
+				<path d="M0 1296.95 L330.73 1296.95" class="st7"/>
+			</g>
+			<g id="shape217-217" v:mID="217" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="56.6929" cy="1275.55" width="113.39" height="42.8031"/>
+				<rect x="0" y="1254.15" width="113.386" height="42.8031" class="st10"/>
+				<text x="42.52" y="1271.95" class="st8" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>:View <tspan
+							x="19.17" dy="1.2em" class="st9">Autenticazione</tspan></text>			</g>
+		</g>
+		<g id="shape222-221" v:mID="222" v:groupContext="shape" v:layerMember="0" transform="translate(25.7618,-323.342)">
+			<title>Messaggio asincrono.222</title>
+			<desc>Autenticazione</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(27000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.1339" cy="1289.87" width="58.64" height="17.6036"/>
+			<path d="M0 1289.87 L110.27 1289.87" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="30.7223" y="1285.07" width="48.8232" height="9.59985" class="st13"/>
+			<text x="30.72" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Autenticazione</text>		</g>
+		<g id="shape223-228" v:mID="223" v:groupContext="shape" v:layerMember="0" transform="translate(136.03,-305.696)">
+			<title>Messaggio asincrono.223</title>
+			<desc>show()</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(28000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="61.0866" cy="1289.87" width="40" height="17.6036"/>
+			<path d="M0 1290.22 L122.17 1289.51" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="50.0262" y="1285.07" width="22.121" height="9.59985" class="st13"/>
+			<text x="50.03" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>show()</text>		</g>
+		<g id="shape224-235" v:mID="224" v:groupContext="shape" v:layerMember="0" transform="translate(258.203,-289.255)">
+			<title>Messaggio asincrono.224</title>
+			<desc>verificaCredenziali(email, password)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(29000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.6704" cy="1304.04" width="127.2" height="17.6036"/>
+			<path d="M0 1303.69 L145.86 1304.36" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="17.9777" y="1299.24" width="117.386" height="9.59985" class="st13"/>
+			<text x="17.98" y="1306.44" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>verificaCredenziali(email, password)</text>		</g>
+		<g id="shape225-242" v:mID="225" v:groupContext="shape" transform="translate(-876.907,1267.14) rotate(-90)">
+			<title>Attivazione.225</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(30000):26"/>
+			</v:userDefs>
+			<rect x="0" y="1288.45" width="252" height="8.50394" class="st16"/>
+		</g>
+		<g id="shape298-244" v:mID="298" v:groupContext="shape" v:layerMember="0" transform="translate(64.0295,-1219.59)">
+			<title>Messaggio asincrono.298</title>
+			<desc>JWT</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(57000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="78.0945" cy="1304.04" width="40" height="17.6036"/>
+			<path d="M0 1303.62 L148.71 1304.43" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="71.3113" y="1299.24" width="13.5665" height="9.59985" class="st13"/>
+			<text x="71.31" y="1306.44" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>JWT</text>		</g>
+		<g id="group304-251" transform="translate(85.2894,-943.337)" v:mID="304" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvSDListAlignment" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListRequiredCategories" v:prompt="" v:val="VT4(Interaction operand)"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(62000):26"/>
+			</v:userDefs>
+			<title>Alternative fragment</title>
+			<g id="shape304-252" v:mID="304" v:groupContext="groupContent">
+				<rect x="0" y="1137.62" width="158.457" height="159.336" class="st20"/>
+			</g>
+			<g id="shape305-254" v:mID="305" v:groupContext="shape" transform="translate(0,-141.732)">
+				<title>Foglio.305</title>
+				<desc>alt</desc>
+				<v:userDefs>
+					<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.098425196850394):24"/>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#a5a5a5)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#a5a5a5)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#a5a5a5)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="32" cy="1288.15" width="64" height="17.6036"/>
+				<path d="M0 1296.95 L56.91 1296.95 L64 1289.87 L64 1279.35 L0 1279.35 L0 1296.95 Z" class="st21"/>
+				<text x="4" y="1290.55" class="st24" v:langID="1040"><v:paragraph/><v:tabList/>alt</text>			</g>
+		</g>
+		<g id="shape306-257" v:mID="306" v:groupContext="shape" transform="translate(85.2894,-943.337)">
+			<title>Interaction operand</title>
+			<desc>JWT non riconosciuto o azione non concessa</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Interaction operand)"/>
+				<v:ud v:nameU="UserWidth" v:prompt="" v:val="VT0(1.8897637795276):24"/>
+				<v:ud v:nameU="WidthMin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvNotMergeMasterByJustName" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthMin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(63000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="77.1419" cy="1234.89" width="154.29" height="17.6036"/>
+			<path d="M0 1296.95 L158.46 1296.95 L158.46 1226.09 L0 1226.09 L0 1296.95 Z" class="st25"/>
+			<path d="M158.46 1226.09 L0 1226.09" class="st26"/>
+			<text x="4" y="1237.29" class="st27" v:langID="1040"><v:paragraph/><v:tabList/>JWT non riconosciuto o azione non concessa</text>		</g>
+		<g id="shape307-261" v:mID="307" v:groupContext="shape" transform="translate(85.2894,-1014.2)">
+			<title>Interaction operand.307</title>
+			<desc>JWT riconosciuto, azione autorizzata</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Interaction operand)"/>
+				<v:ud v:nameU="UserWidth" v:prompt="" v:val="VT0(1.8897637795276):24"/>
+				<v:ud v:nameU="WidthMin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvNotMergeMasterByJustName" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthMin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(64000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.1753" cy="1234.89" width="128.36" height="17.6036"/>
+			<text x="4" y="1237.29" class="st27" v:langID="1040"><v:paragraph/><v:tabList/>JWT riconosciuto, azione autorizzata</text>		</g>
+		<g id="shape308-264" v:mID="308" v:groupContext="shape" v:layerMember="1" transform="translate(220.431,-992.568)">
+			<title>Return Message.308</title>
+			<desc>non autorizzato</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(65000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-67.5709" cy="1304.04" width="60.86" height="17.6036"/>
+			<path d="M0 1304.03 L-135.14 1304.05" class="st19"/>
+			<rect v:rectContext="textBkgnd" x="-93.0921" y="1299.24" width="51.0428" height="9.59985" class="st13"/>
+			<text x="-93.09" y="1306.44" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>non autorizzato</text>		</g>
+		<g id="group309-271" transform="translate(59.7776,-28.8644)" v:mID="309" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvSDListAlignment" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListRequiredCategories" v:prompt="" v:val="VT4(Interaction operand)"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(66000):26"/>
+			</v:userDefs>
+			<title>Alternative fragment.309</title>
+			<g id="shape309-272" v:mID="309" v:groupContext="groupContent">
+				<rect x="0" y="1137.62" width="429.449" height="159.336" class="st20"/>
+			</g>
+			<g id="shape310-274" v:mID="310" v:groupContext="shape" transform="translate(0,-141.732)">
+				<title>Foglio.310</title>
+				<desc>alt</desc>
+				<v:userDefs>
+					<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.098425196850394):24"/>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#a5a5a5)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#a5a5a5)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#a5a5a5)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="32" cy="1288.15" width="64" height="17.6036"/>
+				<path d="M0 1296.95 L56.91 1296.95 L64 1289.87 L64 1279.35 L0 1279.35 L0 1296.95 Z" class="st21"/>
+				<text x="4" y="1290.55" class="st24" v:langID="1040"><v:paragraph/><v:tabList/>alt</text>			</g>
+		</g>
+		<g id="shape311-277" v:mID="311" v:groupContext="shape" transform="translate(59.7776,-28.8644)">
+			<title>Interaction operand.311</title>
+			<desc>Non autorizzato</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Interaction operand)"/>
+				<v:ud v:nameU="UserWidth" v:prompt="" v:val="VT0(1.8897637795276):24"/>
+				<v:ud v:nameU="WidthMin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvNotMergeMasterByJustName" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthMin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(67000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="32" cy="1234.89" width="64" height="17.6036"/>
+			<path d="M0 1296.95 L429.45 1296.95 L429.45 1226.09 L0 1226.09 L0 1296.95 Z" class="st25"/>
+			<path d="M429.45 1226.09 L0 1226.09" class="st26"/>
+			<text x="4" y="1237.29" class="st27" v:langID="1040"><v:paragraph/><v:tabList/>Non autorizzato</text>		</g>
+		<g id="shape312-281" v:mID="312" v:groupContext="shape" transform="translate(59.7776,-99.7305)">
+			<title>Interaction operand.312</title>
+			<desc>Autorizzato</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Interaction operand)"/>
+				<v:ud v:nameU="UserWidth" v:prompt="" v:val="VT0(1.8897637795276):24"/>
+				<v:ud v:nameU="WidthMin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvNotMergeMasterByJustName" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthMin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(68000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="32" cy="1234.89" width="64" height="17.6036"/>
+			<text x="4" y="1237.29" class="st27" v:langID="1040"><v:paragraph/><v:tabList/>Autorizzato</text>		</g>
+		<g id="shape313-284" v:mID="313" v:groupContext="shape" v:layerMember="1" transform="translate(411.543,-158.188)">
+			<title>Return Message.313</title>
+			<desc>JWT</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(69000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-76.6704" cy="1304.04" width="40" height="17.6036"/>
+			<path d="M0 1304.01 L-153.34 1304.08" class="st19"/>
+			<rect v:rectContext="textBkgnd" x="-83.4535" y="1299.24" width="13.5665" height="9.59985" class="st13"/>
+			<text x="-83.45" y="1306.44" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>JWT</text>		</g>
+		<g id="shape314-291" v:mID="314" v:groupContext="shape" v:layerMember="1" transform="translate(420.047,-256.728)">
+			<title>Message.213</title>
+			<desc>read(Utente)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(70000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="69.3139" cy="1289.87" width="52.13" height="17.6036"/>
+			<path d="M0 1289.87 L131.15 1289.87" class="st28"/>
+			<rect v:rectContext="textBkgnd" x="48.158" y="1285.07" width="42.3119" height="9.59985" class="st13"/>
+			<text x="48.16" y="1292.27" class="st30" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>read(Utente)</text>		</g>
+		<g id="shape316-299" v:mID="316" v:groupContext="shape" v:layerMember="1" transform="translate(558.675,-220.728)">
+			<title>Return Message.216</title>
+			<desc>response</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(72000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-69.3139" cy="1289.87" width="40" height="17.6036"/>
+			<path d="M0 1289.87 L-138.63 1289.87" class="st31"/>
+			<rect v:rectContext="textBkgnd" x="-84.1303" y="1285.07" width="29.6326" height="9.59985" class="st13"/>
+			<text x="-84.13" y="1292.27" class="st30" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>response</text>		</g>
+		<g id="shape330-307" v:mID="330" v:groupContext="shape" v:layerMember="1" transform="translate(411.543,-59.0821)">
+			<title>Return Message.330</title>
+			<desc>Unauthorized</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(78000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-76.6704" cy="1289.87" width="54.26" height="17.6036"/>
+			<path d="M0 1290.22 L-153.34 1289.51" class="st19"/>
+			<rect v:rectContext="textBkgnd" x="-98.8908" y="1285.07" width="44.4411" height="9.59985" class="st13"/>
+			<text x="-98.89" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Unauthorized</text>		</g>
+		<g id="shape331-314" v:mID="331" v:groupContext="shape" v:layerMember="0" transform="translate(25.7618,-645.641)">
+			<title>Messaggio.331</title>
+			<desc>Inserimento dati di registrazione</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(79000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="113.669" cy="1289.87" width="115.46" height="17.6036"/>
+			<path d="M0 1290.22 L227.34 1289.51" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="60.8497" y="1285.07" width="105.639" height="9.59985" class="st13"/>
+			<text x="60.85" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Inserimento dati di registrazione</text>		</g>
+		<g id="shape332-321" v:mID="332" v:groupContext="shape" v:layerMember="0" transform="translate(408.638,-573.287)">
+			<title>Messaggio asincrono.332</title>
+			<desc>insert(Utente)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(80000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="67.932" cy="1289.87" width="55.94" height="17.6036"/>
+			<path d="M0 1289.87 L128.38 1289.87" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="44.87" y="1285.07" width="46.1242" height="9.59985" class="st13"/>
+			<text x="44.87" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>insert(Utente)</text>		</g>
+		<g id="shape333-328" v:mID="333" v:groupContext="shape" v:layerMember="0" transform="translate(25.7618,-293.082)">
+			<title>Messaggio.333</title>
+			<desc>Inserimento dati di autenticazione</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(81000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="116.22" cy="1289.87" width="121.28" height="17.6036"/>
+			<path d="M0 1290.22 L232.44 1289.51" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="60.4871" y="1285.07" width="111.467" height="9.59985" class="st13"/>
+			<text x="60.49" y="1292.27" class="st14" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Inserimento dati di autenticazione</text>		</g>
+		<g id="group334-335" transform="translate(533.163,-371.814)" v:mID="334" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:prompt="" v:val="VT0(82000):26"/>
+			</v:userDefs>
+			<title>Linea di vita dell&#39;attore.334</title>
+			<desc>DB</desc>
+			<g id="shape335-336" v:mID="335" v:groupContext="shape">
+				<title>Foglio.335</title>
+				<desc>Utente</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="1284.2" width="51.03" height="25.5118"/>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st1"/>
+				<text x="14.18" y="1286.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Utente</text>			</g>
+			<g id="shape336-339" v:mID="336" v:groupContext="shape" transform="translate(17.0079,280.103)">
+				<title>Foglio.336</title>
+			</g>
+			<g id="shape337-341" v:mID="337" v:groupContext="shape" transform="translate(1322.47,1296.95) rotate(90)">
+				<title>Foglio.337</title>
+				<path d="M0 1296.95 L262.49 1296.95" class="st3"/>
+			</g>
+			<g id="shape334-344" v:mID="334" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="1284.2" width="51.03" height="25.5118"/>
+				<rect x="0" y="1271.44" width="51.0236" height="25.5118" class="st1"/>
+				<text x="18.37" y="1287.8" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>DB</text>			</g>
+		</g>
+		<g id="shape338-347" v:mID="338" v:groupContext="shape" transform="translate(47.0217,-1204.42)">
+			<title>Circle</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(83000):26"/>
+			</v:userDefs>
+			<path d="M0 1288.45 A8.50394 8.50394 0 1 1 17.01 1288.45 A8.50394 8.50394 0 0 1 0 1288.45 Z" class="st32"/>
+		</g>
+	</g>
+</svg>
