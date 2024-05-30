@@ -572,7 +572,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="55.1339" cy="1104.24" width="77.63" height="17.6036"/>
 			<path d="M0 1104.24 L110.27 1104.24" class="st12"/>
-			<rect v:rectContext="textBkgnd" x="21.2281" y="1099.44" width="67.8117" height="9.59985" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="21.2281" y="1099.44" width="67.8117" height="9.59985" class="st24"/>
 			<text x="21.23" y="1106.64" class="st15" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>modifica transazione</text>		</g>
 		<g id="shape223-224" v:mID="223" v:groupContext="shape" v:layerMember="0" transform="translate(136.03,-598.718)">
 			<title>Messaggio asincrono.223</title>
@@ -651,7 +651,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="114.704" cy="1118.42" width="40" height="17.6036"/>
 			<path d="M0 1117.35 L221.93 1119.41" class="st16"/>
-			<rect v:rectContext="textBkgnd" x="103.348" y="1113.62" width="22.7107" height="9.59985" class="st24"/>
+			<rect v:rectContext="textBkgnd" x="103.348" y="1113.62" width="22.7107" height="9.59985" class="st14"/>
 			<text x="103.35" y="1120.82" class="st15" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>modify</text>		</g>
 		<g id="group232-260" transform="translate(690.911,-585.324)" v:mID="232" v:groupContext="group">
 			<v:userDefs>
@@ -695,7 +695,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="153.893" cy="1118.42" width="40" height="17.6036"/>
 			<path d="M0 1117.35 L300.31 1119.43" class="st16"/>
-			<rect v:rectContext="textBkgnd" x="142.537" y="1113.62" width="22.7107" height="9.59985" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="142.537" y="1113.62" width="22.7107" height="9.59985" class="st24"/>
 			<text x="142.54" y="1120.82" class="st15" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>modify</text>		</g>
 		<g id="shape238-280" v:mID="238" v:groupContext="shape" v:layerMember="1" transform="translate(404.386,-436.718)">
 			<title>Return Message.238</title>
@@ -709,7 +709,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-75.6428" cy="1104.24" width="40" height="17.6036"/>
 			<path d="M0 1104.6 L-151.29 1103.89" class="st20"/>
-			<rect v:rectContext="textBkgnd" x="-86.3418" y="1099.44" width="21.3981" height="9.59985" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="-86.3418" y="1099.44" width="21.3981" height="9.59985" class="st24"/>
 			<text x="-86.34" y="1106.64" class="st15" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>close()</text>		</g>
 		<g id="group239-287" transform="translate(518.99,-677.45)" v:mID="239" v:groupContext="group">
 			<v:userDefs>
@@ -752,7 +752,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="67.932" cy="1104.24" width="46.13" height="17.6036"/>
 			<path d="M0 1104.24 L128.38 1104.24" class="st16"/>
-			<rect v:rectContext="textBkgnd" x="49.7782" y="1099.44" width="36.3079" height="9.59985" class="st24"/>
+			<rect v:rectContext="textBkgnd" x="49.7782" y="1099.44" width="36.3079" height="9.59985" class="st14"/>
 			<text x="49.78" y="1106.64" class="st15" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>connection</text>		</g>
 		<g id="shape244-306" v:mID="244" v:groupContext="shape" v:layerMember="0" transform="translate(408.638,-454.363)">
 			<title>Messaggio asincrono.244</title>
@@ -767,7 +767,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="67.932" cy="1104.24" width="76.46" height="17.6036"/>
 			<path d="M0 1104.24 L128.38 1104.24" class="st16"/>
-			<rect v:rectContext="textBkgnd" x="34.61" y="1099.44" width="66.6442" height="9.59985" class="st24"/>
+			<rect v:rectContext="textBkgnd" x="34.61" y="1099.44" width="66.6442" height="9.59985" class="st14"/>
 			<text x="34.61" y="1106.64" class="st15" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>modify(Transazione)</text>		</g>
 		<g id="group245-313" transform="translate(390.014,-539.19)" v:mID="245" v:groupContext="group">
 			<v:userDefs>
@@ -957,7 +957,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="58.5354" cy="1104.24" width="40" height="17.6036"/>
 			<path d="M0 1104.6 L117.07 1103.89" class="st12"/>
-			<rect v:rectContext="textBkgnd" x="47.475" y="1099.44" width="22.121" height="9.59985" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="47.475" y="1099.44" width="22.121" height="9.59985" class="st24"/>
 			<text x="47.48" y="1106.64" class="st15" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>show()</text>		</g>
 		<g id="shape272-390" v:mID="272" v:groupContext="shape" v:layerMember="0" transform="translate(253.1,-224.19)">
 			<title>Messaggio asincrono.272</title>
@@ -1022,7 +1022,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="108.261" cy="1118.42" width="40" height="17.6036"/>
 			<path d="M0 1118.24 L209.04 1118.58" class="st16"/>
-			<rect v:rectContext="textBkgnd" x="95.9502" y="1113.62" width="24.6209" height="9.59985" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="95.9502" y="1113.62" width="24.6209" height="9.59985" class="st24"/>
 			<text x="95.95" y="1120.82" class="st15" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>destroy</text>		</g>
 		<g id="group280-419" transform="translate(681.571,-162.182)" v:mID="280" v:groupContext="group">
 			<v:userDefs>
