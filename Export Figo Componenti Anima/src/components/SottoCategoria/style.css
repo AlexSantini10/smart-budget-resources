@@ -1,0 +1,48 @@
+.sotto-categoria {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 59px;
+  position: relative;
+  width: 290px;
+}
+
+.sotto-categoria .text-wrapper-15 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 10px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 131px;
+}
+
+.sotto-categoria .mdi-pencil-outline {
+  height: 29px;
+  left: 193px;
+  position: absolute;
+  top: 14px;
+  width: 29px;
+}
+
+.sotto-categoria .trash-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #ac2b2b;
+  border-radius: 8px;
+  height: 32px;
+  left: 244px;
+  position: absolute;
+  top: 13px;
+  width: 35px;
+}
+
+.sotto-categoria .trash {
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 23px;
+}

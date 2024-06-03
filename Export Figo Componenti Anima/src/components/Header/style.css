@@ -1,0 +1,69 @@
+.header {
+  background-color: #389fff;
+  height: 70px;
+  position: relative;
+  width: 361px;
+}
+
+.header .img {
+  height: 35px;
+  left: 304px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 36px;
+}
+
+.header .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 120px;
+  letter-spacing: -0.4px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.header .icon-more {
+  height: 30px;
+  left: 15px;
+  position: absolute;
+  top: 20px;
+  width: 23px;
+}
+
+.header .union {
+  height: 1px;
+  left: 4414px;
+  position: absolute;
+  top: -458px;
+  width: 1px;
+}
+
+.header .line-stroke {
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.header .line-stroke-2 {
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 11px;
+  width: 14px;
+}
+
+.header .line-stroke-3 {
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 17px;
+  width: 18px;
+}

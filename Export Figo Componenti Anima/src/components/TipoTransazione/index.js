@@ -1,0 +1,1 @@
+export { TipoTransazione } from "./TipoTransazione";

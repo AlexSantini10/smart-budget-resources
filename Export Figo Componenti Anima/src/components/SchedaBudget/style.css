@@ -1,0 +1,177 @@
+.scheda-budget {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 128px;
+  position: relative;
+  width: 334px;
+}
+
+.scheda-budget .doughnut {
+  height: 100px;
+  left: 217px;
+  position: absolute;
+  top: 14px;
+  width: 100px;
+}
+
+.scheda-budget .overlap-group-2 {
+  height: 100px;
+  position: relative;
+}
+
+.scheda-budget .budget-non-speso {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.scheda-budget .budget-speso {
+  height: 75px;
+  left: 50px;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.scheda-budget .text-wrapper-8 {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 37px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.scheda-budget .text-wrapper-9 {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 35px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.scheda-budget .text-wrapper-10 {
+  color: #ac2b2b;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 33px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.scheda-budget .text-wrapper-11 {
+  color: #ac2b2b;
+  font-family: "Roboto", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 35px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.scheda-budget .text-wrapper-12 {
+  color: #333437;
+  font-family: "Roboto", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 18px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+  width: 159px;
+}
+
+.scheda-budget .frame {
+  align-items: center;
+  gap: 2px;
+  left: 19px;
+  position: absolute;
+  top: 35px;
+}
+
+.scheda-budget .saldo {
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.scheda-budget .text-wrapper-13 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 18px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.scheda-budget .text-wrapper-14 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 18px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 164px;
+}
+
+.scheda-budget .no {
+  background-image: url(../../../static/img/budget-speso-1.svg);
+  background-size: 100% 100%;
+}
+
+.scheda-budget .rispettato-si {
+  display: flex;
+  width: 124px;
+}
+
+.scheda-budget .rispettato-no {
+  display: inline-flex;
+}
+
+.scheda-budget .frame.rispettato-si .saldo {
+  color: var(--variable-collection-bilancio-positivo);
+}
+
+.scheda-budget .frame.rispettato-no .saldo {
+  color: #ac2b2b;
+}

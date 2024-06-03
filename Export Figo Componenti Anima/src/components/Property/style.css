@@ -1,0 +1,206 @@
+.property {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 34px;
+  position: relative;
+}
+
+.property .top-content {
+  height: 68px;
+  position: relative;
+  width: 162px;
+}
+
+.property .overlap-group {
+  background-color: #ffffff;
+  height: 68px;
+  position: relative;
+  width: 160px;
+}
+
+.property .profile-image {
+  height: 35px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 36px;
+}
+
+.property .text-wrapper {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 58px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+  position: absolute;
+  top: 21px;
+  width: 77px;
+}
+
+.property .main-content {
+  height: 488px;
+  position: relative;
+  width: 162.74px;
+}
+
+.property .overlap {
+  height: 376px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 164px;
+}
+
+.property .rectangle {
+  background-color: #ffffff;
+  height: 376px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.property .contatti {
+  height: 20px;
+  left: 13px;
+  position: absolute;
+  top: 190px;
+  width: 151px;
+}
+
+.property .div {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 28px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.property .icon-instance-node {
+  height: 20px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 20px !important;
+}
+
+.property .debiti-crediti {
+  height: 20px;
+  left: 12px;
+  position: absolute;
+  top: 150px;
+  width: 150px;
+}
+
+.property .text-wrapper-2 {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 26px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.property .budgets {
+  height: 20px;
+  left: 14px;
+  position: absolute;
+  top: 110px;
+  width: 148px;
+}
+
+.property .text-wrapper-3 {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 24px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.property .categorie {
+  height: 20px;
+  left: 14px;
+  position: absolute;
+  top: 70px;
+  width: 148px;
+}
+
+.property .text-wrapper-4 {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 24px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.property .il-mio-profilo {
+  height: 20px;
+  left: 14px;
+  position: absolute;
+  top: 30px;
+  width: 148px;
+}
+
+.property .il-mio-profilo-2 {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 20px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.property .esporta-dati {
+  height: 20px;
+  left: 12px;
+  position: absolute;
+  top: 468px;
+  width: 153px;
+}
+
+.property .text-wrapper-5 {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 30px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 121px;
+}

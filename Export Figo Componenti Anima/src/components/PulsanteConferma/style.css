@@ -1,0 +1,25 @@
+.pulsante-conferma {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #33343780;
+  border-radius: 8px;
+  height: 38px;
+  position: relative;
+  width: 110px;
+}
+
+.pulsante-conferma .text-wrapper-16 {
+  color: #389fff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 11px;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  white-space: nowrap;
+  width: 100px;
+}

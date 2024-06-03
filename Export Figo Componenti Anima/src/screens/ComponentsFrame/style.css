@@ -1,0 +1,217 @@
+.components-frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.components-frame .div-3 {
+  background-color: #ffffff;
+  height: 1290px;
+  position: relative;
+  width: 2380px;
+}
+
+.components-frame .side-bar {
+  left: 90px !important;
+  position: absolute !important;
+  top: 23px !important;
+}
+
+.components-frame .watch-1 {
+  height: 20px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 20px !important;
+}
+
+.components-frame .header-instance {
+  left: 336px !important;
+  position: absolute !important;
+  top: 26px !important;
+}
+
+.components-frame .design-component-instance-node {
+  left: -3204px !important;
+  top: 2620px !important;
+}
+
+.components-frame .bottom-bar-instance {
+  left: 334px !important;
+  position: absolute !important;
+  top: 139px !important;
+  width: 359px !important;
+}
+
+.components-frame .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 783px;
+  position: absolute;
+  top: 26px;
+}
+
+.components-frame .tipo-transazione-2 {
+  border: 1px dashed;
+  border-color: #9747ff;
+  border-radius: 5px;
+  height: 142px;
+  left: 1207px;
+  overflow: hidden;
+  position: absolute;
+  top: 26px;
+  width: 122px;
+}
+
+.components-frame .design-component-instance-node-2 {
+  left: 20px !important;
+  position: absolute !important;
+  top: 20px !important;
+}
+
+.components-frame .tipo-transazione-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 81px !important;
+}
+
+.components-frame .sotto-categoria-instance {
+  left: 29px !important;
+  position: absolute !important;
+  top: 1078px !important;
+}
+
+.components-frame .pulsante-conferma-instance {
+  left: 1351px !important;
+  position: absolute !important;
+  top: 216px !important;
+}
+
+.components-frame .pulsante-annulla-instance {
+  left: 1197px !important;
+  position: absolute !important;
+  top: 217px !important;
+}
+
+.components-frame .add-button-instance {
+  left: 1505px !important;
+  position: absolute !important;
+  top: 221px !important;
+}
+
+.components-frame .lista-instance {
+  left: 339px !important;
+  position: absolute !important;
+  top: 343px !important;
+}
+
+.components-frame .debito-credito-2 {
+  border: 1px dashed;
+  border-color: #9747ff;
+  border-radius: 5px;
+  height: 178px;
+  left: 29px;
+  overflow: hidden;
+  position: absolute;
+  top: 781px;
+  width: 330px;
+}
+
+.components-frame .tipo-credito {
+  left: 20px !important;
+  position: absolute !important;
+  top: 99px !important;
+}
+
+.components-frame .categoria-instance {
+  left: 29px !important;
+  position: absolute !important;
+  top: 1000px !important;
+}
+
+.components-frame .pulsante-annulla-2 {
+  left: 1637px !important;
+  position: absolute !important;
+  top: 221px !important;
+}
+
+.components-frame .top-bar-2 {
+  border: 1px dashed;
+  border-color: #9747ff;
+  border-radius: 5px;
+  height: 336px;
+  left: 647px;
+  overflow: hidden;
+  position: absolute;
+  top: 456px;
+  width: 400px;
+}
+
+.components-frame .top-bar-instance {
+  left: 19px !important;
+  position: absolute !important;
+  top: 236px !important;
+}
+
+.components-frame .page-conti-2 {
+  left: 19px !important;
+  position: absolute !important;
+  top: 166px !important;
+}
+
+.components-frame .page-transazioni {
+  left: 20px !important;
+  position: absolute !important;
+  top: 96px !important;
+}
+
+.components-frame .checkbox-instance {
+  height: 16px !important;
+  left: 1362px !important;
+  overflow: hidden !important;
+  position: absolute !important;
+  top: 33px !important;
+  width: 196px !important;
+}
+
+.components-frame .checkbox-2 {
+  gap: 3px !important;
+  margin-top: -9px !important;
+}
+
+.components-frame .checkbox-3 {
+  font-family: "Jost", Helvetica !important;
+  font-size: 12px !important;
+  font-style: unset !important;
+  font-weight: 400 !important;
+  letter-spacing: 0 !important;
+  line-height: 18px !important;
+}
+
+.components-frame .dropdown-menu-instance {
+  left: 1366px !important;
+  position: absolute !important;
+  top: 80px !important;
+}
+
+.components-frame .saldo-home-page-instance {
+  left: 1558px !important;
+  position: absolute !important;
+  top: 33px !important;
+}
+
+.components-frame .esempio-statistiche-instance {
+  left: 1190px !important;
+  position: absolute !important;
+  top: 378px !important;
+}
+
+.components-frame .form-landing-instance {
+  left: 427px !important;
+  position: absolute !important;
+  top: 907px !important;
+}

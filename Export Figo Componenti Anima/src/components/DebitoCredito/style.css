@@ -1,0 +1,191 @@
+.debito-credito {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 59px;
+  width: 290px;
+}
+
+.debito-credito .overlap-6 {
+  height: 59px;
+  left: -38px;
+  position: relative;
+  width: 334px;
+}
+
+.debito-credito .text-wrapper-26 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 38px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.debito-credito .saldo-4 {
+  height: 18px;
+  left: 198px;
+  position: absolute;
+  top: 16px;
+  width: 135px;
+}
+
+.debito-credito .overlap-group-5 {
+  height: 23px;
+  left: -5px;
+  position: relative;
+  top: -1px;
+  width: 140px;
+}
+
+.debito-credito .element-2 {
+  color: var(--variable-collection-bilancio-negativo-2-90);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.debito-credito .text-wrapper-27 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 18px;
+  left: 104px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.debito-credito .background {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 59px;
+  left: 38px;
+  position: absolute;
+  top: 0;
+  width: 290px;
+}
+
+.debito-credito .text-wrapper-28 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.debito-credito .saldo-5 {
+  height: 18px;
+  left: 199px;
+  position: absolute;
+  top: 16px;
+  width: 135px;
+}
+
+.debito-credito .element-3 {
+  color: var(--variable-collection-bilancio-positivo);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.debito-credito .antonio-ti-deve {
+  color: var(--variable-collection-testo-secondario);
+  font-family: "Roboto", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 51px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 34px;
+  width: 159px;
+}
+
+.debito-credito .span {
+  color: #389fff;
+  letter-spacing: -0.03px;
+}
+
+.debito-credito .text-wrapper-29 {
+  color: #757575;
+  letter-spacing: -0.03px;
+}
+
+.debito-credito .text-wrapper-30 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.debito-credito .saldo-6 {
+  height: 18px;
+  left: 160px;
+  position: absolute;
+  top: 16px;
+  width: 135px;
+}
+
+.debito-credito .devi-a-antonio {
+  color: var(--variable-collection-testo-secondario);
+  font-family: "Roboto", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 13px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 34px;
+  width: 159px;
+}
+
+.debito-credito .text-wrapper-31 {
+  color: #f13333;
+  letter-spacing: -0.03px;
+}
+
+.debito-credito.debito {
+  position: relative;
+}

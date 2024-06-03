@@ -1,0 +1,206 @@
+.form-landing {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+  justify-content: center;
+  position: relative;
+  width: 320px;
+}
+
+.form-landing .text-wrapper-46 {
+  color: #333437cc;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 245px;
+}
+
+.form-landing .input-nome {
+  height: 37px;
+  position: relative;
+  width: 121px;
+}
+
+.form-landing .overlap-group-9 {
+  height: 37px;
+  position: relative;
+  width: 119px;
+}
+
+.form-landing .accedi-button-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #33343780;
+  border-radius: 8px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 119px;
+}
+
+.form-landing .rectangle-3 {
+  background-color: #ffffff;
+  height: 6px;
+  left: 16px;
+  position: absolute;
+  top: 5px;
+  width: 30px;
+}
+
+.form-landing .text-wrapper-47 {
+  color: #333437b2;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  height: 9px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.form-landing .input-cognome {
+  height: 37px;
+  position: relative;
+  width: 149px;
+}
+
+.form-landing .overlap-7 {
+  height: 37px;
+  position: relative;
+  width: 147px;
+}
+
+.form-landing .accedi-button-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #33343780;
+  border-radius: 8px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 147px;
+}
+
+.form-landing .rectangle-4 {
+  background-color: #ffffff;
+  height: 6px;
+  left: 14px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.form-landing .text-wrapper-48 {
+  color: #333437b2;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  height: 9px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.form-landing .text-input-instance {
+  position: relative !important;
+}
+
+.form-landing .input-password {
+  height: 37px;
+  position: relative;
+  width: 313px;
+}
+
+.form-landing .overlap-8 {
+  height: 37px;
+  position: relative;
+  width: 311px;
+}
+
+.form-landing .accedi-button-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #33343780;
+  border-radius: 8px;
+  height: 32px;
+  left: 15px;
+  position: absolute;
+  top: 5px;
+  width: 296px;
+}
+
+.form-landing .rectangle-5 {
+  background-color: #ffffff;
+  height: 5px;
+  left: 29px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.form-landing .text-wrapper-49 {
+  color: #333437b2;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  height: 9px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.form-landing .pulsante {
+  height: 32px;
+  position: relative;
+  width: 298px;
+}
+
+.form-landing .overlap-9 {
+  background-color: #389fff;
+  border: 1px solid;
+  border-color: #33343780;
+  border-radius: 8px;
+  height: 32px;
+  position: relative;
+  width: 296px;
+}
+
+.form-landing .text-wrapper-50 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  height: 9px;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 120px;
+}

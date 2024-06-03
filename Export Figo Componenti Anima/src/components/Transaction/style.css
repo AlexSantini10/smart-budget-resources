@@ -1,0 +1,74 @@
+.transaction {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 59px;
+  width: 290px;
+}
+
+.transaction .overlap-2 {
+  height: 33px;
+  left: 15px;
+  position: relative;
+  top: 14px;
+  width: 263px;
+}
+
+.transaction .text-wrapper-19 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 143px;
+}
+
+.transaction .overlap-group-wrapper {
+  height: 18px;
+  left: 128px;
+  position: absolute;
+  top: 2px;
+  width: 135px;
+}
+
+.transaction .overlap-group-3 {
+  height: 23px;
+  left: -5px;
+  position: relative;
+  top: -1px;
+  width: 140px;
+}
+
+.transaction .text-wrapper-20 {
+  color: #a5a5a5;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.transaction .text-wrapper-21 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 18px;
+  left: 104px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 36px;
+}

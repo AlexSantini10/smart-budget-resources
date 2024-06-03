@@ -1,0 +1,115 @@
+.checkbox {
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.checkbox .radio-wrapper {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.checkbox .class-3 {
+  border-color: var(--gray-700) !important;
+}
+
+.checkbox .class-4 {
+  background-color: var(--gray-700) !important;
+}
+
+.checkbox .class-5 {
+  height: 10px !important;
+  left: 5px !important;
+  top: 7px !important;
+  width: 14px !important;
+}
+
+.checkbox .class-6 {
+  height: 1px !important;
+  left: -15px !important;
+  top: -378px !important;
+  width: 1px !important;
+}
+
+.checkbox .class-7 {
+  height: 1px !important;
+  left: -15px !important;
+  top: -374px !important;
+  width: 1px !important;
+}
+
+.checkbox .label {
+  flex: 1;
+  font-family: var(--body-1-normal-font-family);
+  font-size: var(--body-1-normal-font-size);
+  font-style: var(--body-1-normal-font-style);
+  font-weight: var(--body-1-normal-font-weight);
+  letter-spacing: var(--body-1-normal-letter-spacing);
+  line-height: var(--body-1-normal-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.checkbox.label-false {
+  display: inline-flex;
+}
+
+.checkbox.label-true {
+  display: flex;
+  width: 181px;
+}
+
+.checkbox .disabled {
+  opacity: 0.3;
+}
+
+.checkbox .hover {
+  background-color: var(--white);
+}
+
+.checkbox .focus {
+  background-color: var(--white);
+  border: 1px solid;
+}
+
+.checkbox .selected-false.focus {
+  border-color: var(--black);
+}
+
+.checkbox .label-0-false.focus {
+  border-color: var(--black);
+}
+
+.checkbox .selected-true.label-0-true.focus {
+  border-color: #333437;
+}
+
+.checkbox .radio-wrapper.disabled .label {
+  color: var(--gray-700);
+}
+
+.checkbox .radio-wrapper.hover .label {
+  color: var(--black);
+}
+
+.checkbox .radio-wrapper.default .label {
+  color: var(--gray-700);
+}
+
+.checkbox .radio-wrapper.selected-false.focus .label {
+  color: var(--black);
+}
+
+.checkbox .radio-wrapper.selected-true.focus .label {
+  color: #333437;
+}

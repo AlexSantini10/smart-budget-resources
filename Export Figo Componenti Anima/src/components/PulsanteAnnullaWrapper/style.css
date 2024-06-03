@@ -1,0 +1,25 @@
+.pulsante-annulla-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #33343780;
+  border-radius: 8px;
+  height: 26px;
+  position: relative;
+  width: 103px;
+}
+
+.pulsante-annulla-wrapper .text-wrapper-33 {
+  color: #717171;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 7px;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: 94px;
+}

@@ -1,0 +1,86 @@
+.saldo-home-page {
+  height: 65px;
+  position: relative;
+  width: 225px;
+}
+
+.saldo-home-page .text-wrapper-39 {
+  color: #389fff;
+  font-family: "Roboto", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 27px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+  width: 87px;
+}
+
+.saldo-home-page .text-wrapper-40 {
+  color: var(--variable-collection-bilancio-positivo);
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 119px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.saldo-home-page .text-wrapper-41 {
+  color: var(--variable-collection-notion-title);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 166px;
+}
+
+.saldo-home-page .text-wrapper-42 {
+  color: #17b142;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  height: 7px;
+  left: 143px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.saldo-home-page .element-4 {
+  color: #17b142;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 24px;
+  left: 142px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+  width: 82px;
+}
+
+.saldo-home-page .text-wrapper-43 {
+  font-weight: 500;
+  letter-spacing: -0.03px;
+}
+
+.saldo-home-page .text-wrapper-44 {
+  letter-spacing: -0.03px;
+}

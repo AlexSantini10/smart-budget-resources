@@ -1,0 +1,47 @@
+.esempio-statistiche {
+  height: 391px;
+  position: relative;
+  width: 276px;
+}
+
+.esempio-statistiche .pulsante-accesso {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 359px;
+  width: 134px;
+}
+
+.esempio-statistiche .overlap-group-7 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #33343780;
+  border-radius: 8px;
+  height: 32px;
+  position: relative;
+  width: 132px;
+}
+
+.esempio-statistiche .text-wrapper-45 {
+  color: #389fff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 9px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.esempio-statistiche .graph-example {
+  height: 348px;
+  left: -4px;
+  position: absolute;
+  top: -4px;
+  width: 284px;
+}

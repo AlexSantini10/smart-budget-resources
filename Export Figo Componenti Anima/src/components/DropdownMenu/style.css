@@ -1,0 +1,31 @@
+.dropdown-menu {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #33343780;
+  border-radius: 8px;
+  height: 38px;
+  position: relative;
+  width: 142px;
+}
+
+.dropdown-menu .text-wrapper-38 {
+  color: var(--variable-collection-testo-secondario);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 26px;
+  left: 7px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  width: 99px;
+}
+
+.dropdown-menu .vector {
+  height: 9px;
+  left: 117px;
+  position: absolute;
+  top: 15px;
+  width: 13px;
+}

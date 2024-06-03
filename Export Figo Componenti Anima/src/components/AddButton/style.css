@@ -1,0 +1,25 @@
+.add-button {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #389fff;
+  border-radius: 100px;
+  height: 28px;
+  position: relative;
+  width: 106px;
+}
+
+.add-button .text-wrapper-18 {
+  color: var(--variable-collection-smart-budget-main-theme);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  height: 11px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 84px;
+}
