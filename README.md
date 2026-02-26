@@ -2,6 +2,8 @@
 
 > Questa repository contiene tutte le risorse del progetto **Smart Budget**: documentazione, diagrammi, mockup e artefatti di progettazione.
 
+> Progetto per il corso di **Ingegneria del Software** – Corso di Laurea in **Ingegneria Informatica T**, Università di Bologna (UNIBO)
+
 ---
 
 ## 📋 Descrizione del progetto
@@ -135,6 +137,8 @@ Alcuni esempi delle schermate dell'applicazione:
 
 ---
 
-## 👤 Autore
+## 👤 Autori
 
-**Alex Santini** – [@AlexSantini10](https://github.com/AlexSantini10)
+- **Alex Santini** – [@AlexSantini10](https://github.com/AlexSantini10)
+- **ErJem** – [@ErJem](https://github.com/ErJem)
+- **lucax58** – [@lucax58](https://github.com/lucax58)
